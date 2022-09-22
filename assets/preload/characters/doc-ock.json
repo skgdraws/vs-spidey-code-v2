@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "doc-ock Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "doc-ock Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "doc-ock Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "doc-ock Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "doc-ock Sing Note RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doc-ock",
+	"position": [
+		0,
+		-190
+	],
+	"healthicon": "doc-ock",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		95,
+		52
+	],
+	"camera_position": [
+		-100,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mysterio",
+			"boxState": "normal",
+			"expression": "serious",
+			"text": "Finally, I can get back at Spider-Man for messing up my plans! He should be here any second!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mysterio",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What the hell?! What are you doing here?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Mysterio",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're not Spider-Man!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh you know Spider-Man? Cool! We just rap battled him a week ago!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mysterio",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "That is the most idiotic thing I've ever heard. Anyways, what can I do to get you guys to go away./"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bop beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mysterio",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "........"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mysterio",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fine, but only one song you bitch."
+		}
+	]
+}

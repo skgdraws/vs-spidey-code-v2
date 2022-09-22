@@ -1,0 +1,90 @@
+{
+	"storyName": "Covers",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "covers",
+	"weekBefore": "Week 7",
+	"startUnlocked": true,
+	"songs": [
+
+		[
+			"Hello Peter",
+			"doc-ock",
+			[
+				246,
+				113,
+				0
+			]
+		],
+		[
+			"last-reel",
+			"mysterio",
+			[
+				47,
+				108,
+				71
+			]
+		],
+		[
+			"Roasted",
+			"green-goblin",
+			[
+				66,
+				215,
+				53
+			]
+		],
+		[
+			"i hate you",
+			"doc-ock",
+			[
+				246,
+				113,
+				0
+			]
+		],
+		[
+			"infinite-drip-endless",
+			"spidey",
+			[
+				186,
+				20,
+				0
+			]
+		],
+		[
+			"Grace",
+			"mysterio",
+			[
+				47,
+				108,
+				71
+			]
+		],
+		[
+			"Quaoar",
+			"spidey",
+			[
+				186,
+				20,
+				0
+			]
+		],
+		[
+			"final destination",
+			"spidey",
+			[
+				186,
+				20,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week EX"
+}

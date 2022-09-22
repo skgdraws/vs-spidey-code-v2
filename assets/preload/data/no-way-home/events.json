@@ -1,0 +1,64 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "rooftop",
+		"player1": "bf",
+		"player2": "spiderman",
+		"player3": null,
+		"events": [
+			[
+				16285.7142857143,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21085.7142857143,
+				[
+					[
+						"Play Animation",
+						"LetsRock",
+						"Dad"
+					],
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				21857.1428571429,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				32914.2857142857,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "No Way Home"
+	}
+}

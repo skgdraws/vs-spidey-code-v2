@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "Well, I did the song. So you won't tell anyone right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nah"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "phew."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "however, I'm starting to dig this whole rap battle thing. Let's do one more song!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "It has been fun rap battling with you guys, hopefully we meet up again soon!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, we may need you sometime Spidey!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "You know who to call when you do!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Spidey",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "Now let's do this!"
+		}
+	]
+}

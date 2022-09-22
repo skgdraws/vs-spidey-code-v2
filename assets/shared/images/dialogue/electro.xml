@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="electro.png">
+<SubTexture name="electro angry0000" x="1825" y="0" width="661" height="728" frameX="-240" frameY="-2" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro angry0001" x="1825" y="0" width="661" height="728" frameX="-240" frameY="-2" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro angry0002" x="0" y="2900" width="663" height="705" frameX="-238" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro angry0003" x="0" y="2900" width="663" height="705" frameX="-238" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro angry0004" x="663" y="2900" width="654" height="705" frameX="-247" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro angry0005" x="663" y="2900" width="654" height="705" frameX="-247" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro angry loop0000" x="1825" y="0" width="661" height="728" frameX="-240" frameY="-2" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro angry loop0001" x="496" y="0" width="655" height="730" frameX="-242" frameY="0" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro angry loop0002" x="503" y="2188" width="650" height="712" frameX="-243" frameY="-18" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro angry loop0003" x="2329" y="2188" width="657" height="708" frameX="-240" frameY="-22" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro angry loop0004" x="1317" y="2900" width="654" height="705" frameX="-247" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro angry loop0005" x="1317" y="2900" width="654" height="705" frameX="-247" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro sadge0000" x="680" y="1460" width="514" height="723" frameX="-247" frameY="-7" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro sadge0001" x="680" y="1460" width="514" height="723" frameX="-247" frameY="-7" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro sadge0002" x="3673" y="2040" width="524" height="663" frameX="-246" frameY="-67" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro sadge0003" x="3673" y="2040" width="524" height="663" frameX="-246" frameY="-67" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro sadge0004" x="3673" y="2703" width="489" height="663" frameX="-258" frameY="-67" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro sadge0005" x="3673" y="2703" width="489" height="663" frameX="-258" frameY="-67" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro sadge loop0000" x="680" y="1460" width="514" height="723" frameX="-247" frameY="-7" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro sadge loop0001" x="1825" y="728" width="509" height="727" frameX="-249" frameY="-3" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro sadge loop0002" x="3673" y="705" width="513" height="669" frameX="-251" frameY="-61" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro sadge loop0003" x="3673" y="1374" width="519" height="666" frameX="-248" frameY="-64" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro sadge loop0004" x="0" y="3605" width="489" height="663" frameX="-258" frameY="-67" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro sadge loop0005" x="0" y="3605" width="489" height="663" frameX="-258" frameY="-67" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro confused0000" x="0" y="1460" width="680" height="728" frameX="-240" frameY="-2" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro confused0001" x="0" y="1460" width="680" height="728" frameX="-240" frameY="-2" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro confused0002" x="1971" y="2900" width="682" height="705" frameX="-238" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro confused0003" x="1971" y="2900" width="682" height="705" frameX="-238" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro confused0004" x="2653" y="2900" width="673" height="705" frameX="-247" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro confused0005" x="2653" y="2900" width="673" height="705" frameX="-247" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro confused loop0000" x="0" y="1460" width="680" height="728" frameX="-240" frameY="-2" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro confused loop0001" x="1151" y="0" width="674" height="730" frameX="-242" frameY="0" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro confused loop0002" x="1153" y="2188" width="668" height="712" frameX="-243" frameY="-18" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro confused loop0003" x="2997" y="0" width="676" height="708" frameX="-240" frameY="-22" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro confused loop0004" x="3673" y="0" width="673" height="705" frameX="-247" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro confused loop0005" x="3673" y="0" width="673" height="705" frameX="-247" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro talk0000" x="987" y="730" width="501" height="728" frameX="-240" frameY="-2" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro talk0001" x="987" y="730" width="501" height="728" frameX="-240" frameY="-2" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro talk0002" x="2997" y="708" width="513" height="705" frameX="-238" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro talk0003" x="2997" y="708" width="513" height="705" frameX="-238" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro talk0004" x="2997" y="1413" width="481" height="705" frameX="-247" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro talk0005" x="2997" y="1413" width="481" height="705" frameX="-247" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro talk loop0000" x="987" y="730" width="501" height="728" frameX="-240" frameY="-2" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro talk loop0001" x="0" y="0" width="496" height="730" frameX="-242" frameY="0" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro talk loop0002" x="0" y="2188" width="503" height="712" frameX="-243" frameY="-18" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro talk loop0003" x="1821" y="2188" width="508" height="708" frameX="-240" frameY="-22" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro talk loop0004" x="2997" y="2118" width="481" height="705" frameX="-247" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro talk loop0005" x="2997" y="2118" width="481" height="705" frameX="-247" frameY="-25" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro happy0000" x="491" y="730" width="496" height="729" frameX="-218" frameY="-1" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro happy0001" x="491" y="730" width="496" height="729" frameX="-218" frameY="-1" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro happy0002" x="2486" y="0" width="511" height="714" frameX="-214" frameY="-16" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro happy0003" x="2486" y="0" width="511" height="714" frameX="-214" frameY="-16" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro happy0004" x="2486" y="714" width="486" height="713" frameX="-225" frameY="-17" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro happy0005" x="2486" y="714" width="486" height="713" frameX="-225" frameY="-17" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro happy loop0000" x="491" y="730" width="496" height="729" frameX="-218" frameY="-1" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro happy loop0001" x="0" y="730" width="491" height="730" frameX="-221" frameY="0" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro happy loop0002" x="1194" y="1460" width="501" height="721" frameX="-219" frameY="-9" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro happy loop0003" x="1695" y="1460" width="506" height="717" frameX="-217" frameY="-13" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro happy loop0004" x="2486" y="1427" width="486" height="713" frameX="-225" frameY="-17" frameWidth="950" frameHeight="720" />
+<SubTexture name="electro happy loop0005" x="2486" y="1427" width="486" height="713" frameX="-225" frameY="-17" frameWidth="950" frameHeight="720" />
+</TextureAtlas>

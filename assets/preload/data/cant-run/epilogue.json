@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "Venom",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Ugh! Fine! We didn't want to eat you anyways!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*The symbiote threw the mic down the alley way. Looked up at the billboard which read:"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Public Enemy #1\"\"\" on it, and shrugged and left to go get a beer at a bar*"
+		}
+	]
+}

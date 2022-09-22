@@ -1,0 +1,88 @@
+{
+    "animations": [
+        
+        {
+            "loop": false,
+		    "offsets": [
+		    	0,
+		    	10
+		    ],
+		    "anim": "idle",
+		    "fps": 24,
+		    "name": "spidey-magic Idle Dance",
+		    "indices": []
+        },
+        
+        
+        {
+            "loop": false,
+		    "offsets": [
+			    -6,
+			    10
+		    ],
+		    "anim": "singUP",
+		    "fps": 24,
+		    "name": "spidey-magic Sing Note UP",
+		    "indices": []
+        },
+
+        {
+            "loop": false,
+			"offsets": [
+				-21,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spidey-magic Sing Note DOWN",
+			"indices": []
+        },
+
+        {
+            "loop": false,
+			"offsets": [
+				-10,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "spidey-magic Sing Note LEFT",
+			"indices": []
+        },
+        
+        {
+            "loop": false,
+			"offsets": [
+				51,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spidey-magic Sing Note RIGHT",
+			"indices": []
+        }
+    ],
+
+    "no_antialiasing": false,
+    "image": "characters/spidey-magic",
+    
+    "position": [
+        0,
+        0
+    ],
+
+    "healthicon": "spidey",
+    "flip_x": false,
+	
+    "healthbar_colors": [
+		134,
+		36,
+		32
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

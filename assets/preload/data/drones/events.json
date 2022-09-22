@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "mysterio",
+		"player1": "bf",
+		"player2": "mysterio",
+		"player3": null,
+		"events": [
+			[
+				29844.5595854922,
+				[
+					[
+						"Add Camera Zoom",
+						"0.005",
+						"8.999"
+					]
+				]
+			],
+			[
+				30155.4404145078,
+				[
+					[
+						"Add Camera Zoom",
+						"0.005",
+						"8.999"
+					]
+				]
+			],
+			[
+				30466.3212435233,
+				[
+					[
+						"Add Camera Zoom",
+						"0.005",
+						"8.999"
+					]
+				]
+			],
+			[
+				30777.2020725389,
+				[
+					[
+						"Add Camera Zoom",
+						"0.005",
+						"8.999"
+					]
+				]
+			],
+			[
+				31088.0829015544,
+				[
+					[
+						"Add Camera Zoom",
+						"0.005",
+						"8.999"
+					]
+				]
+			],
+			[
+				31398.9637305699,
+				[
+					[
+						"Add Camera Zoom",
+						"0.005",
+						"8.999"
+					]
+				]
+			],
+			[
+				58134.7150259068,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"bf"
+					]
+				]
+			],
+			[
+				58445.5958549223,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.03",
+						"0.5,0.01"
+					]
+				]
+			],
+			[
+				58445.5958549223,
+				[
+					[
+						"Change Character",
+						"1",
+						"mysterio-cracked"
+					]
+				]
+			],
+			[
+				124352.331606217,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.015"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 193,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Drones"
+	}
+}

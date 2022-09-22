@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Spidey unmasks himself in a fit of rage.*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-unmasked",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "There. I Won. Now your time is up Norman, accept your defea-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-unmasked",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "GAH-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "green-goblin",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "HAHAHAHAHAHA"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "green-goblin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "did you reaaaally think I was gonna let you win that easily?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "T-that's not how it goes... you-...you cheated!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "green-goblin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "don't worry kid. He will be just fine."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-unmasked",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Kid, listen... the only way we are gonna stop him is if we finish this battle. you got this"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BRING IT ON THEN BITCH!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "green-goblin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "atta boy."
+		}
+	]
+}

@@ -1,0 +1,7 @@
+bf
+bf-car
+dad
+gf
+mom-car
+gf-car
+bf-pixel-opponent

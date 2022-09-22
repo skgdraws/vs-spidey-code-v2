@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Doc ock is tangled up inside of his tentacles and trapped so he can't move*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Spidey-hybrid",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Kid, what the hell are you doing here?! You could have gotten yourself killed!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "beep bop..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-hybrid",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "YOU FOUGHT WHO NOW?!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "bee bop bo bee bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-hybrid",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "wait... were you the one who killed Mysterio."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-hybrid",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "Actually.. nevermind that, it doesn't matter anymore."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-hybrid",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "We got more villains to beat kid, I'll help you on the next one just... look out for a flying green elf. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-hybrid",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "I feel like he is gonna be the most difficult to beat."
+		}
+	]
+}

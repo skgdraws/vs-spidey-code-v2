@@ -1,0 +1,49 @@
+{
+	"storyName": "Electro",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "electro",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week4",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Sparkle",
+			"electro",
+			[
+				226,
+				193,
+				13
+			]
+		],
+		[
+			"Bitsy",
+			"electro",
+			[
+				226,
+				193,
+				13
+			]
+		],
+		[
+			"Surge",
+			"electro",
+			[
+				226,
+				193,
+				13
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week4"
+}

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spidey-magic.png">
+<SubTexture name="spidey-magic talk loop0000" x="1878" y="657" width="435" height="656" frameX="-243" frameY="-34" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic talk loop0001" x="1380" y="667" width="430" height="659" frameX="-246" frameY="-31" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic talk loop0002" x="0" y="667" width="427" height="662" frameX="-248" frameY="-28" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic talk loop0003" x="1380" y="667" width="430" height="659" frameX="-246" frameY="-31" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic talk loop0004" x="1878" y="657" width="435" height="656" frameX="-243" frameY="-34" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic talk loop0005" x="1878" y="657" width="435" height="656" frameX="-243" frameY="-34" frameWidth="950" frameHeight="680" />
+
+<SubTexture name="spidey-magic talk0000" x="1878" y="657" width="435" height="656" frameX="-243" frameY="-34" frameWidth="950" frameHeight="680" />
+
+<SubTexture name="spidey-magic happy loop0000" x="1826" y="1329" width="599" height="651" frameX="-148" frameY="-39" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic happy loop0001" x="613" y="1329" width="593" height="654" frameX="-152" frameY="-36" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic happy loop0002" x="1878" y="0" width="587" height="657" frameX="-155" frameY="-33" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic happy loop0003" x="613" y="1329" width="593" height="654" frameX="-152" frameY="-36" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic happy loop0004" x="1826" y="1329" width="599" height="651" frameX="-148" frameY="-39" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic happy loop0005" x="1826" y="1329" width="599" height="651" frameX="-148" frameY="-39" frameWidth="950" frameHeight="680" />
+
+<SubTexture name="spidey-magic happy0000" x="1826" y="1329" width="599" height="651" frameX="-148" frameY="-39" frameWidth="950" frameHeight="680" />
+
+<SubTexture name="spidey-magic cocky loop0000" x="0" y="1984" width="582" height="642" frameX="-233" frameY="-48" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic cocky loop0001" x="2465" y="1297" width="576" height="645" frameX="-236" frameY="-45" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic cocky loop0002" x="2465" y="649" width="571" height="648" frameX="-238" frameY="-42" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic cocky loop0003" x="2465" y="1297" width="576" height="645" frameX="-236" frameY="-45" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic cocky loop0004" x="0" y="1984" width="582" height="642" frameX="-233" frameY="-48" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic cocky loop0005" x="0" y="1984" width="582" height="642" frameX="-233" frameY="-48" frameWidth="950" frameHeight="680" />
+
+<SubTexture name="spidey-magic cocky0000" x="0" y="1984" width="582" height="642" frameX="-233" frameY="-48" frameWidth="950" frameHeight="680" />
+
+<SubTexture name="spidey-magic angry loop0000" x="3091" y="0" width="433" height="631" frameX="-262" frameY="-59" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic angry loop0001" x="2298" y="1984" width="429" height="634" frameX="-264" frameY="-56" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic angry loop0002" x="1439" y="1984" width="424" height="637" frameX="-267" frameY="-53" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic angry loop0003" x="2298" y="1984" width="429" height="634" frameX="-264" frameY="-56" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic angry loop0004" x="3091" y="0" width="433" height="631" frameX="-262" frameY="-59" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic angry loop0005" x="3091" y="0" width="433" height="631" frameX="-262" frameY="-59" frameWidth="950" frameHeight="680" />
+
+<SubTexture name="spidey-magic angry0000" x="3091" y="0" width="433" height="631" frameX="-262" frameY="-59" frameWidth="950" frameHeight="680" />
+
+<SubTexture name="spidey-magic confused loop0000" x="427" y="667" width="953" height="661" frameX="-3" frameY="-29" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic confused loop0001" x="934" y="0" width="944" height="664" frameX="-8" frameY="-26" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic confused loop0002" x="0" y="0" width="934" height="667" frameX="-13" frameY="-23" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic confused loop0003" x="934" y="0" width="944" height="664" frameX="-8" frameY="-26" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic confused loop0004" x="427" y="667" width="953" height="661" frameX="-3" frameY="-29" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic confused loop0005" x="427" y="667" width="953" height="661" frameX="-3" frameY="-29" frameWidth="950" frameHeight="680" />
+
+<SubTexture name="spidey-magic confused0000" x="427" y="667" width="953" height="661" frameX="-3" frameY="-29" frameWidth="950" frameHeight="680" />
+
+<SubTexture name="spidey-magic regret loop0000" x="2465" y="0" width="626" height="649" frameX="-121" frameY="-41" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic regret loop0001" x="1206" y="1329" width="620" height="652" frameX="-125" frameY="-38" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic regret loop0002" x="0" y="1329" width="613" height="655" frameX="-129" frameY="-35" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic regret loop0003" x="1206" y="1329" width="620" height="652" frameX="-125" frameY="-38" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic regret loop0004" x="2465" y="0" width="626" height="649" frameX="-121" frameY="-41" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic regret loop0005" x="2465" y="0" width="626" height="649" frameX="-121" frameY="-41" frameWidth="950" frameHeight="680" />
+
+<SubTexture name="spidey-magic regret0000" x="2465" y="0" width="626" height="649" frameX="-121" frameY="-41" frameWidth="950" frameHeight="680" />
+
+<SubTexture name="spidey-magic sadge loop0000" x="1863" y="1984" width="435" height="635" frameX="-243" frameY="-55" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic sadge loop0001" x="1009" y="1984" width="430" height="638" frameX="-246" frameY="-52" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic sadge loop0002" x="582" y="1984" width="427" height="641" frameX="-248" frameY="-49" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic sadge loop0003" x="1009" y="1984" width="430" height="638" frameX="-246" frameY="-52" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic sadge loop0004" x="1863" y="1984" width="435" height="635" frameX="-243" frameY="-55" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-magic sadge loop0005" x="1863" y="1984" width="435" height="635" frameX="-243" frameY="-55" frameWidth="950" frameHeight="680" />
+
+<SubTexture name="spidey-magic sadge0000" x="1863" y="1984" width="435" height="635" frameX="-243" frameY="-55" frameWidth="950" frameHeight="680" />
+</TextureAtlas>

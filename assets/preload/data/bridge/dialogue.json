@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "doc-ock",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Ok, the battles done. Tell me where my \\nmachine is. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep bop boa skip doo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doc-ock",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "What do you mean with one more song?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doc-ock",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "YOU ARE WASTING MY TIME!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doc-ock",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "but fine."
+		}
+	]
+}

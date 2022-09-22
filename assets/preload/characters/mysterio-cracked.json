@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "mysterio-cracked Idle Dance"
+		},
+		{
+			"offsets": [
+				-16,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "mysterio-cracked Sing Note UP"
+		},
+		{
+			"offsets": [
+				120,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "mysterio-cracked Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				110,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "mysterio-cracked Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-80,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mysterio-cracked Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mysterio-cracked",
+	"position": [
+		0,
+		-40
+	],
+	"healthicon": "mysterio",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		130,
+		64
+	],
+	"camera_position": [
+		-90,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

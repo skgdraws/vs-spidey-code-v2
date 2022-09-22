@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Mind Games", "mysterio", [47, 108, 71]],
+		["Illusion", "mysterio", [47, 108, 71]],
+		["Drones", "mysterio", [47, 108, 71]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "mysterio",
+
+	"storyName": "Mysterio",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

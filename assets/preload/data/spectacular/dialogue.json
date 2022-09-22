@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "Hmmm, any crime today?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BEEP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "Whoa! What the hell? How did you get up here?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep Bop "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "Oh right, the ladder/."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Makes sense, anyways, what do you want kid?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "skip bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "Rap Battle!? Awesome! Let's do this!"
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*the anti hero is transported into a new \\nuniverse, the cause is unknown to them.*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "venom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the hell is this place?! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skip doo da!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "venom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who the hell are you?! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "skip doo "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "venom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who the hell would name their son boyfriend?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*shrug*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Venom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you want then, \"boyfriend."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bebebbebebebebbebebbebebebbebebbeeb"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "venom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "a rap battle? uh.. okay?"
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"position": [
+		-40,
+		-180
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "venom",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "venom angry loop",
+			"idle_name": "venom angry0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "venom talk loop",
+			"idle_name": "venom talk0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "hungry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "venom hungry",
+			"idle_name": "venom hungry"
+		}
+	]
+}

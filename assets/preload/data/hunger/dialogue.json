@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "venom",
+			"boxState": "normal",
+			"expression": "hungry",
+			"text": "that was fun..? But now we are starving."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "erm. boop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "venom",
+			"boxState": "normal",
+			"expression": "hungry",
+			"text": "You look like the perfect snack to cure our hunger."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "uh bebebebebbebebebebebbebebebebebbebeb"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "venom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so your telling me.. if we beat you in a rap battle. We can eat you?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "sure lol"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "venom",
+			"boxState": "normal",
+			"expression": "hungry",
+			"text": "This is gonna be the easiest snack we will ever eat!!"
+		}
+	]
+}

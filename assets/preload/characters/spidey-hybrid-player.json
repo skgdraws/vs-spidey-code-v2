@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "spidey-hybrid Idle Dance"
+		},
+		{
+			"offsets": [
+				-6,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spidey-hybrid Sing Note UP"
+		},
+		{
+			"offsets": [
+				69,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spidey-hybrid Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-30,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spidey-hybrid Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				1,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "spidey-hybrid Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "LetsRock",
+			"indices": [],
+			"name": "spidey-hybrid Lets Rock"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spidey-hybrid",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "spidey",
+	"flip_x": false,
+	"healthbar_colors": [
+		134,
+		36,
+		32
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

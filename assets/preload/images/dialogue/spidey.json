@@ -1,0 +1,89 @@
+{
+	"position": [
+		-80,
+		-140
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "spidey",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spidey happy loop",
+			"idle_name": "spidey happy0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spidey angry loop",
+			"idle_name": "spidey angry0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "cocky",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spidey cocky loop",
+			"idle_name": "spidey cocky0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spidey confused loop",
+			"idle_name": "spidey confused0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "regret",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spidey regret loop",
+			"idle_name": "spidey regret0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sadge",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spidey sadge loop",
+			"idle_name": "spidey sadge0"
+		}
+	]
+}

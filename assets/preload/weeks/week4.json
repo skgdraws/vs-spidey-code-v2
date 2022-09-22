@@ -1,0 +1,44 @@
+{
+	"storyName": "Doctor Otto Octavious",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "docock",
+	"weekBefore": "week3",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Tentacles",
+			"doc-ock",
+			[
+				240,
+				109,
+				0
+			]
+		],
+		[
+			"Bridge",
+			"doc-ock",
+			[
+				240,
+				109,
+				0
+			]
+		],
+		[
+			"Power of the Sun",
+			"doc-ock",
+			[
+				240,
+				109,
+				0
+			]
+		]
+	],
+	"weekName": "Week 6"
+}

@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-80,
+		-180
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "mysterio angry0",
+			"loop_name": "mysterio angry loop"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "surprised",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "mysterio surprised0",
+			"loop_name": "mysterio surprised loop"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "mysterio confused0",
+			"loop_name": "mysterio confused loop"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "serious",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "mysterio serious0",
+			"loop_name": "mysterio serious loop"
+		}
+	],
+	"image": "mysterio"
+}

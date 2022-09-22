@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "Electro",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I like this.. this power.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Spidey-magic",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "uhh hi Mr sparkle guy?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "electro",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "huh..? Peter?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-magic",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I have no clue who you are.. uhm there is no easy way to say this but you aren't from this universe."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "electro",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I can tell.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "electro",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "and you brought this puny little boy with you... or girl?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Spidey-magic",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "boy, actually. May not sound like it but that doesn't make him any less of one."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-magic",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "by the way, your transition's going great little buddy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "electro",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hm. if a rap battle is what you want, a rap battle is what you'll get. "
+		}
+	]
+}

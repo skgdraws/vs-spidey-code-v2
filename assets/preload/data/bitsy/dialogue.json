@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "electro",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You guys sound good."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-magic",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "Mostly me though right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "electro",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-magic",
+			"boxState": "normal",
+			"expression": "sadge",
+			"text": "oh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "electro",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Nah im joking, you both sound great together"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-magic",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Thanks! Anyways, we should totally do another song!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "yeah!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "electro",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay..."
+		}
+	]
+}

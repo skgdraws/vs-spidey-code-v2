@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ded-spidey.png">
+<SubTexture name="ded-spidey idle0000" x="922" y="0" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey idle0001" x="0" y="1645" width="473" height="539" frameX="-148" frameY="-62" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey idle0002" x="946" y="1645" width="477" height="532" frameX="-147" frameY="-70" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey idle0003" x="473" y="1645" width="473" height="536" frameX="-148" frameY="-65" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey idle0004" x="1858" y="542" width="468" height="541" frameX="-150" frameY="-59" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey idle0005" x="1858" y="0" width="468" height="542" frameX="-150" frameY="-58" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey idle0006" x="936" y="1100" width="468" height="544" frameX="-150" frameY="-56" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey idle0007" x="0" y="555" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey idle0008" x="468" y="555" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey idle0009" x="468" y="555" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey idle0010" x="468" y="555" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey idle0011" x="468" y="555" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey idle0012" x="468" y="555" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey idle0013" x="468" y="555" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey fuck u0000" x="1390" y="0" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey fuck u0001" x="1390" y="545" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey fuck u0002" x="0" y="1100" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey fuck u0003" x="0" y="0" width="459" height="555" frameX="-153" frameY="-44" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey fuck u0004" x="459" y="0" width="463" height="551" frameX="-152" frameY="-49" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey fuck u0005" x="468" y="1100" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey fuck u0006" x="468" y="1100" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey fuck u0007" x="468" y="1100" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey fuck u0008" x="468" y="1100" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey fuck u0009" x="468" y="1100" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey fuck u0010" x="468" y="1100" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey fuck u0011" x="468" y="1100" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey fuck u0012" x="468" y="1100" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+<SubTexture name="ded-spidey fuck u0013" x="468" y="1100" width="468" height="545" frameX="-150" frameY="-55" frameWidth="639" frameHeight="637" />
+</TextureAtlas>

@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mysterio",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright that is it, go away! I did your stupid rap battle."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep skip do"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mysterio",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "What do you mean I still have 2 more songs?! I DID NOT AGREE TO THIS!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "sucks to suck lol"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mysterio",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine, lets get this shit over with."
+		}
+	]
+}

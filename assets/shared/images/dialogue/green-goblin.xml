@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="green-goblin.png">
+<SubTexture name="green-goblin talk loop0000" x="1141" y="0" width="579" height="616" frameX="-168" frameY="-114" frameWidth="950" frameHeight="720" />
+<SubTexture name="green-goblin talk loop0001" x="568" y="0" width="573" height="618" frameX="-171" frameY="-112" frameWidth="950" frameHeight="720" />
+<SubTexture name="green-goblin talk loop0002" x="0" y="0" width="568" height="621" frameX="-174" frameY="-109" frameWidth="950" frameHeight="720" />
+<SubTexture name="green-goblin talk loop0003" x="568" y="0" width="573" height="618" frameX="-171" frameY="-112" frameWidth="950" frameHeight="720" />
+<SubTexture name="green-goblin talk loop0004" x="1141" y="0" width="579" height="616" frameX="-168" frameY="-114" frameWidth="950" frameHeight="720" />
+<SubTexture name="green-goblin talk loop0005" x="1141" y="0" width="579" height="616" frameX="-168" frameY="-114" frameWidth="950" frameHeight="720" />
+<SubTexture name="green-goblin talk0000" x="1141" y="0" width="579" height="616" frameX="-168" frameY="-114" frameWidth="950" frameHeight="720" />
+<SubTexture name="green-goblin laugh loop0000" x="0" y="1230" width="948" height="604" frameX="-11" frameY="-126" frameWidth="950" frameHeight="720" />
+<SubTexture name="green-goblin laugh loop0001" x="1720" y="0" width="938" height="606" frameX="-16" frameY="-124" frameWidth="950" frameHeight="720" />
+<SubTexture name="green-goblin laugh loop0002" x="0" y="621" width="930" height="609" frameX="-20" frameY="-121" frameWidth="950" frameHeight="720" />
+<SubTexture name="green-goblin laugh loop0003" x="1720" y="0" width="938" height="606" frameX="-16" frameY="-124" frameWidth="950" frameHeight="720" />
+<SubTexture name="green-goblin laugh loop0004" x="0" y="1230" width="948" height="604" frameX="-11" frameY="-126" frameWidth="950" frameHeight="720" />
+<SubTexture name="green-goblin laugh loop0005" x="0" y="1230" width="948" height="604" frameX="-11" frameY="-126" frameWidth="950" frameHeight="720" />
+<SubTexture name="green-goblin laugh0000" x="0" y="1230" width="948" height="604" frameX="-11" frameY="-126" frameWidth="950" frameHeight="720" />
+</TextureAtlas>

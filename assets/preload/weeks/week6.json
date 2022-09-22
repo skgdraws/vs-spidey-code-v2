@@ -1,0 +1,43 @@
+{
+	"storyName": "Green Goblin",
+	"hideFreeplay": false,
+	"weekBackground": "goobler",
+	"weekBefore": "week5",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Too Late",
+			"green-goblin",
+			[
+				40,
+				175,
+				0
+			]
+		],
+		[
+			"Good Deeds",
+			"green-goblin",
+			[
+				40,
+				175,
+				0
+			]
+		],
+		[
+			"Unpunished",
+			"green-goblin",
+			[
+				40,
+				175,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 4"
+}

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spidey-unmasked.png">
+<SubTexture name="spidey-unmasked talk loop0000" x="1444" y="667" width="435" height="664" frameX="-243" frameY="-26" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked talk loop0001" x="1014" y="0" width="430" height="667" frameX="-246" frameY="-23" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked talk loop0002" x="0" y="0" width="427" height="670" frameX="-248" frameY="-20" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked talk loop0003" x="0" y="670" width="430" height="667" frameX="-246" frameY="-23" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked talk loop0004" x="934" y="1337" width="435" height="664" frameX="-243" frameY="-26" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked talk loop0005" x="934" y="1337" width="435" height="664" frameX="-243" frameY="-26" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked talk0000" x="1444" y="667" width="435" height="664" frameX="-243" frameY="-26" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked happy loop0000" x="1369" y="1337" width="599" height="664" frameX="-148" frameY="-26" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked happy loop0001" x="430" y="670" width="593" height="667" frameX="-152" frameY="-23" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked happy loop0002" x="427" y="0" width="587" height="670" frameX="-155" frameY="-20" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked happy loop0003" x="1444" y="0" width="593" height="667" frameX="-152" frameY="-23" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked happy loop0004" x="2037" y="0" width="599" height="664" frameX="-148" frameY="-26" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked happy loop0005" x="2037" y="0" width="599" height="664" frameX="-148" frameY="-26" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked happy0000" x="1369" y="1337" width="599" height="664" frameX="-148" frameY="-26" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked cocky loop0000" x="2975" y="3323" width="582" height="641" frameX="-233" frameY="-49" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked cocky loop0001" x="1823" y="3323" width="576" height="644" frameX="-236" frameY="-46" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked cocky loop0002" x="1252" y="3323" width="571" height="647" frameX="-238" frameY="-43" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked cocky loop0003" x="2399" y="3323" width="576" height="644" frameX="-236" frameY="-46" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked cocky loop0004" x="4015" y="0" width="582" height="641" frameX="-233" frameY="-49" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked cocky loop0005" x="4015" y="0" width="582" height="641" frameX="-233" frameY="-49" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked cocky0000" x="4015" y="0" width="582" height="641" frameX="-233" frameY="-49" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked angry loop0000" x="4015" y="2552" width="433" height="633" frameX="-262" frameY="-57" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked angry loop0001" x="4015" y="1280" width="429" height="636" frameX="-264" frameY="-54" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked angry loop0002" x="4015" y="641" width="424" height="639" frameX="-267" frameY="-51" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked angry loop0003" x="4015" y="1916" width="429" height="636" frameX="-264" frameY="-54" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked angry loop0004" x="4015" y="3185" width="433" height="633" frameX="-262" frameY="-57" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked angry loop0005" x="4015" y="3185" width="433" height="633" frameX="-262" frameY="-57" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked angry0000" x="4015" y="2552" width="433" height="633" frameX="-262" frameY="-57" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked confused loop0000" x="0" y="2004" width="953" height="661" frameX="-3" frameY="-29" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked confused loop0001" x="2636" y="0" width="944" height="664" frameX="-8" frameY="-26" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked confused loop0002" x="0" y="1337" width="934" height="667" frameX="-13" frameY="-23" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked confused loop0003" x="2636" y="664" width="944" height="664" frameX="-8" frameY="-26" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked confused loop0004" x="953" y="2004" width="953" height="661" frameX="-3" frameY="-29" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked confused loop0005" x="953" y="2004" width="953" height="661" frameX="-3" frameY="-29" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked confused0000" x="0" y="2004" width="953" height="661" frameX="-3" frameY="-29" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked regret loop0000" x="0" y="3323" width="626" height="655" frameX="-121" frameY="-35" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked regret loop0001" x="2519" y="2004" width="620" height="658" frameX="-125" frameY="-32" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked regret loop0002" x="1906" y="2004" width="613" height="661" frameX="-129" frameY="-29" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked regret loop0003" x="0" y="2665" width="620" height="658" frameX="-125" frameY="-32" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked regret loop0004" x="626" y="3323" width="626" height="655" frameX="-121" frameY="-35" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked regret loop0005" x="626" y="3323" width="626" height="655" frameX="-121" frameY="-35" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked regret0000" x="0" y="3323" width="626" height="655" frameX="-121" frameY="-35" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked sadge loop0006" x="3580" y="1972" width="435" height="654" frameX="-243" frameY="-36" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked sadge loop0007" x="3580" y="658" width="430" height="657" frameX="-246" frameY="-33" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked sadge loop0008" x="2037" y="1325" width="427" height="660" frameX="-248" frameY="-30" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked sadge loop0009" x="3580" y="1315" width="430" height="657" frameX="-246" frameY="-33" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked sadge loop0010" x="3580" y="2626" width="435" height="654" frameX="-243" frameY="-36" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked sadge loop0011" x="3580" y="2626" width="435" height="654" frameX="-243" frameY="-36" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked sadge0001" x="3580" y="1972" width="435" height="654" frameX="-243" frameY="-36" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked shocked0000" x="3139" y="2004" width="435" height="658" frameX="-243" frameY="-32" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked shocked0001" x="620" y="2665" width="437" height="658" frameX="-242" frameY="-32" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked shocked0002" x="1057" y="2665" width="441" height="658" frameX="-240" frameY="-32" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked shocked0003" x="1498" y="2665" width="444" height="658" frameX="-238" frameY="-32" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked shocked0004" x="1942" y="2665" width="441" height="658" frameX="-240" frameY="-32" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked shocked0005" x="2383" y="2665" width="437" height="658" frameX="-242" frameY="-32" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked weakened loop0000" x="2820" y="2665" width="435" height="658" frameX="-243" frameY="-32" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked weakened loop0001" x="3062" y="1328" width="431" height="661" frameX="-245" frameY="-29" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked weakened loop0002" x="2636" y="1328" width="426" height="664" frameX="-248" frameY="-26" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked weakened loop0003" x="2037" y="664" width="431" height="661" frameX="-245" frameY="-29" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked weakened loop0004" x="3580" y="0" width="435" height="658" frameX="-243" frameY="-32" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked weakened loop0005" x="3580" y="0" width="435" height="658" frameX="-243" frameY="-32" frameWidth="950" frameHeight="680" />
+<SubTexture name="spidey-unmasked weakened0000" x="2820" y="2665" width="435" height="658" frameX="-243" frameY="-32" frameWidth="950" frameHeight="680" />
+</TextureAtlas>

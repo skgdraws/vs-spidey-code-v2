@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "Mysterio",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YOU HAVE SOME DAMN NERVE CALLING ME A BITCH."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep bop beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mysterio",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "THATS IT. IM SICK OF LITTLE RUNTS LIKE YOU GETTING IN MY WAY. IM NOT GONNA GO EASY ON YOU. YOU B-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "cry about it"
+		}
+	]
+}

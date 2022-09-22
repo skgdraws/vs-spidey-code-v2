@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "You sound pretty good, kid!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "anyways, who's this lady on the boom box?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "skidoop beep bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Oh! Your girlfriend? That's cool!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It is cool, Peter!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Spidey",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "wait. what."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "YOU KNOW WHO I AM?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "What is it gonna take for you guys to not tell anyone?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bep bop bo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "fine. lets finish this rap battle."
+		}
+	]
+}

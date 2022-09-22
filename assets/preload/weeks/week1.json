@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Spectacular", "spidey", [176, 46, 47]],
+		["They Know", "spidey", [176, 46, 47]],
+		["No Way Home", "spidey", [176, 46, 47]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "spidey",
+
+	"storyName": "Spiderman",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

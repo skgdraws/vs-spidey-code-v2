@@ -1,0 +1,43 @@
+{
+	"storyName": "Venom",
+	"hideFreeplay": false,
+	"weekBackground": "venom",
+	"weekBefore": "week2",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Venom",
+			"venom",
+			[
+				30,
+				30,
+				30
+			]
+		],
+		[
+			"Hunger",
+			"venom",
+			[
+				30,
+				30,
+				30
+			]
+		],
+		[
+			"Cant Run",
+			"venom",
+			[
+				30,
+				30,
+				30
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 3"
+}

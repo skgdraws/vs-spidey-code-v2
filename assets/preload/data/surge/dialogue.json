@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "electro",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Okay, lets talk about the elephant in the room. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-magic",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "eh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "electro",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Who the fuck is the redhead girl in the red dress. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-magic",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "She is this kid's girlfriend. She is like emotional support I think!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "i-..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "electro",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "She is lowkey kinda useless."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "BEEP!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "electro",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "No need to get pissed! I'm pointing out the obvious!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-magic",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "things seem to be getting pretty heated, im just gonna send you to strange."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "electro",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No! YOU AINT EVEN THE SHIT SPIDER-MAN!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-magic",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "LETS BATTLE THEN"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "......"
+		}
+	]
+}

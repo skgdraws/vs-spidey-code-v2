@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "Doc-ock",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello Pet-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doc-ock",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "You are not Peter Parker."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "skidoop bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doc-ock",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "A rap battle? "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doc-ock",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Wait, we are getting off track. Where is my machine!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "uhm bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doc-ock",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Fine. You are stubborn."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doc-ock",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If I rap battle you, will you tell me where my machine is? "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doc-ock",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Better yet, will you tell me where Peter \\nParker is. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "maybe"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doc-ock",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Fine... so be it."
+		}
+	]
+}

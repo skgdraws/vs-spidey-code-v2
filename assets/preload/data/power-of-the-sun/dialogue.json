@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "Doc-OCK",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "TELL ME NOW!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "bo-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Spider-Man comes in from out of nowhere, \\webbing boyfriend away*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doc-ock",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello Peter."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-hybrid",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uh, hi do I know you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doc-ock",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Where did you put my machine, or will I have to rap battle it out of you too."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-hybrid",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "Im gonna be 100% honest with you. I have no idea what machine you're talking about."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-hybrid",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "but I will gladly do a rap battle."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doc-ock",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine, I'm sick of playing games though. I will not be holding back, Peter. "
+		}
+	]
+}

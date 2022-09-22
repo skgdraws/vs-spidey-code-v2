@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Spidey transports Norman away*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "SPIDEY? ARE YOU OKAY?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spidey-unmasked",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "y-yeah. I should be.. what about you kid."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "......."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*A portal opens beside the hero and the \\nboyfriend. Who could be coming out?*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "To be continued in Vs Spider-Man V3"
+		}
+	]
+}

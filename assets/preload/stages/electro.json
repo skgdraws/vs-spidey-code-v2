@@ -1,0 +1,9 @@
+{
+	"directory": "pics-of-spidey",
+	"defaultZoom": 0.7,
+	"isPixelStage": false,
+
+	"boyfriend": [1270, 500],
+	"girlfriend": [1000, 470],
+	"opponent": [250, 250]
+}

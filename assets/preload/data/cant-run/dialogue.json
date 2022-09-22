@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "venom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AGHHHHHH DAMNIT. WE ARE STARVING YOU LITTLE RUNT."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "eh beeba boo bop "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "venom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WE DO NOT CARE IF THERE IS A BURGER PLACE DOWN THE ROAD"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "venom",
+			"boxState": "normal",
+			"expression": "hungry",
+			"text": "We are going to rip out your pancreas, eat it, then bite your head off and let it float down the street."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "venom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "like a turd, in the wind."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*the symbiote was affected by such a high note of screaming*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "venom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OW YOU RUNT. HOW DARE YOU HURT US.. WE ARE GONNA MAKE YOU REGRET THAT."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "well shit."
+		}
+	]
+}

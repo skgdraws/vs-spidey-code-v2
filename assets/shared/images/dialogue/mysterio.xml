@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mysterio.png">
+<SubTexture name="mysterio serious loop0000" x="1070" y="1239" width="540" height="571" frameX="-181" frameY="-149" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio serious loop0001" x="0" y="1239" width="535" height="573" frameX="-184" frameY="-147" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio serious loop0002" x="1734" y="0" width="529" height="575" frameX="-187" frameY="-145" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio serious loop0003" x="0" y="1239" width="535" height="573" frameX="-184" frameY="-147" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio serious loop0004" x="1070" y="1239" width="540" height="571" frameX="-181" frameY="-149" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio serious loop0005" x="1070" y="1239" width="540" height="571" frameX="-181" frameY="-149" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio serious0000" x="1070" y="1239" width="540" height="571" frameX="-181" frameY="-149" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio angry loop0000" x="1610" y="1239" width="540" height="571" frameX="-181" frameY="-149" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio angry loop0001" x="535" y="1239" width="535" height="573" frameX="-184" frameY="-147" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio angry loop0002" x="1734" y="575" width="529" height="575" frameX="-187" frameY="-145" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio angry loop0003" x="535" y="1239" width="535" height="573" frameX="-184" frameY="-147" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio angry loop0004" x="1610" y="1239" width="540" height="571" frameX="-181" frameY="-149" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio angry loop0005" x="1610" y="1239" width="540" height="571" frameX="-181" frameY="-149" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio angry0000" x="1610" y="1239" width="540" height="571" frameX="-181" frameY="-149" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio confused loop0000" x="1150" y="0" width="584" height="642" frameX="-144" frameY="-78" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio confused loop0001" x="572" y="0" width="578" height="645" frameX="-147" frameY="-75" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio confused loop0002" x="0" y="0" width="572" height="648" frameX="-151" frameY="-72" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio confused loop0003" x="572" y="0" width="578" height="645" frameX="-147" frameY="-75" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio confused loop0004" x="1150" y="0" width="584" height="642" frameX="-144" frameY="-78" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio confused loop0005" x="1150" y="0" width="584" height="642" frameX="-144" frameY="-78" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio confused0000" x="1150" y="0" width="584" height="642" frameX="-144" frameY="-78" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio surprised loop0000" x="1150" y="648" width="584" height="586" frameX="-144" frameY="-134" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio surprised loop0001" x="572" y="648" width="578" height="588" frameX="-147" frameY="-132" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio surprised loop0002" x="0" y="648" width="572" height="591" frameX="-151" frameY="-129" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio surprised loop0003" x="572" y="648" width="578" height="588" frameX="-147" frameY="-132" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio surprised loop0004" x="1150" y="648" width="584" height="586" frameX="-144" frameY="-134" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio surprised loop0005" x="1150" y="648" width="584" height="586" frameX="-144" frameY="-134" frameWidth="950" frameHeight="720" />
+<SubTexture name="mysterio surprised0000" x="1150" y="648" width="584" height="586" frameX="-144" frameY="-134" frameWidth="950" frameHeight="720" />
+</TextureAtlas>

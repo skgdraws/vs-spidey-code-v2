@@ -1,0 +1,37 @@
+{
+	"position": [
+		-80,
+		-180
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "green-goblin",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "green-goblin talk loop",
+			"idle_name": "green-goblin talk0"
+		},
+		{
+			"loop_offsets": [
+				-30,
+				0
+			],
+			"anim": "laugh",
+			"idle_offsets": [
+				-30,
+				0
+			],
+			"loop_name": "green-goblin laugh loop",
+			"idle_name": "green-goblin laugh0"
+		}
+	]
+}

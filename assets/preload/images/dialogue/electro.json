@@ -1,0 +1,76 @@
+{
+	"position": [
+		-140,
+		-180
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "electro",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "electro talk loop",
+			"idle_name": "electro talk0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "electro angry loop",
+			"idle_name": "electro angry0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "electro happy loop",
+			"idle_name": "electro happy0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "electro confused loop",
+			"idle_name": "electro confused0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				10
+			],
+			"anim": "sadge",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"loop_name": "electro sadge loop",
+			"idle_name": "electro sadge0"
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "green-goblin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well well well. If it isn't the boyfriend. I've heard plenty about you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "b-beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "green-goblin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and I've got to say.. you got some guts kid. Its a shame I'm gonna have to kill you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "green-goblin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Quit with your puny screeching!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "eh..bep bop bea bo se"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "green-goblin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A rap battle for your life? Now that is what im talking about. Let's get this show on the road... shall we?"
+		}
+	]
+}

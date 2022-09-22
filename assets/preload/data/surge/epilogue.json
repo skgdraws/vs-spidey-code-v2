@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Spider-man shoots a magic enchanted web over at electro and sends him to Doctor Strange*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Spidey-magic",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "that was a close one kid. I'm gonna go look for that flying green elf, if you find him. Call me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "kk!"
+		}
+	]
+}

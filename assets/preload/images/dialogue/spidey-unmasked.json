@@ -1,0 +1,128 @@
+{
+	"position": [
+		-80,
+		-140
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "spidey-unmasked",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spidey-unmasked talk loop",
+			"idle_name": "spidey-unmasked talk0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spidey-unmasked happy loop",
+			"idle_name": "spidey-unmasked happy0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spidey-unmasked angry loop",
+			"idle_name": "spidey-unmasked angry0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "cocky",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spidey-unmasked cocky loop",
+			"idle_name": "spidey-unmasked cocky0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spidey-unmasked confused loop",
+			"idle_name": "spidey-unmasked confused0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "regret",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spidey-unmasked regret loop",
+			"idle_name": "spidey-unmasked regret0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sadge",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spidey-unmasked sadge loop",
+			"idle_name": "spidey-unmasked sadge0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spidey-unmasked shocked",
+			"idle_name": "spidey-unmasked shocked"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "weakened",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spidey-unmasked weakened loop",
+			"idle_name": "spidey-unmasked weakened0"
+		}
+	]
+}
