@@ -1,0 +1,67 @@
+{
+	"storyName": "Bonus Songs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bonus",
+	"weekBefore": "week6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Tea Time",
+			"spidey",
+			[
+				146,
+				13,
+				33
+			]
+		],
+		[
+			"biscuits",
+			"venom",
+			[
+				30,
+				30,
+				30
+			]
+		],
+		[
+			"octagonapus",
+			"doc-ock",
+			[
+				246,
+				133,
+				0
+			]
+		],
+		[
+			"Emissary",
+			"japan-spidey",
+			[
+				146,
+				13,
+				33
+			]
+		],
+		[
+			"Swinging Away",
+			"spidey",
+			[
+				146,
+				13,
+				33
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week Bonus"
+}

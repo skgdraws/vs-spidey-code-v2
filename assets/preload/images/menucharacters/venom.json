@@ -1,0 +1,11 @@
+{
+	
+	"image": "menu_venom",
+	"position": [
+		250,
+		250
+	],
+	"scale": 0.5,
+	"idle_anim": "menu_venom idle",
+	"confirm_anim": "menu_venom idle"
+}

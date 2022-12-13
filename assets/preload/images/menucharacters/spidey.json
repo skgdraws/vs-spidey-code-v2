@@ -1,0 +1,11 @@
+{
+	
+	"image": "menu_spidey",
+	"position": [
+		250,
+		200
+	],
+	"scale": 0.5,
+	"idle_anim": "menu_spidey idle",
+	"confirm_anim": "menu_spidey idle"
+}

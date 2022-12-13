@@ -24,6 +24,13 @@ end
 
 function noteMiss(id, noteData, noteType, isSustainNote)
 	if noteType == 'WebNote' then
+		-- bf anim
+		characterPlayAnim('boyfriend', 'dodge', true);
+		setProperty('boyfriend.specialAnim', true);
+
+		-- dad anim
+		characterPlayAnim('dad', "gun", true);
+		setProperty('dad.specialAnim', true);
 		setProperty('health', -500);
 	end
 end

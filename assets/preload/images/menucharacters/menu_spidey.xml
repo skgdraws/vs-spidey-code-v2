@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_spidey.png">
+<SubTexture name="menu_spidey idle0000" x="0" y="0" width="567" height="764" frameX="0" frameY="0" frameWidth="567" frameHeight="764" />
+<SubTexture name="menu_spidey idle0001" x="567" y="0" width="567" height="764" frameX="0" frameY="0" frameWidth="567" frameHeight="764" />
+<SubTexture name="menu_spidey idle0002" x="0" y="764" width="567" height="764" frameX="0" frameY="0" frameWidth="567" frameHeight="764" />
+<SubTexture name="menu_spidey idle0003" x="567" y="764" width="567" height="764" frameX="0" frameY="0" frameWidth="567" frameHeight="764" />
+<SubTexture name="menu_spidey idle0004" x="0" y="1528" width="567" height="764" frameX="0" frameY="0" frameWidth="567" frameHeight="764" />
+<SubTexture name="menu_spidey idle0005" x="0" y="1528" width="567" height="764" frameX="0" frameY="0" frameWidth="567" frameHeight="764" />
+<SubTexture name="menu_spidey idle0006" x="0" y="1528" width="567" height="764" frameX="0" frameY="0" frameWidth="567" frameHeight="764" />
+<SubTexture name="menu_spidey idle0007" x="0" y="1528" width="567" height="764" frameX="0" frameY="0" frameWidth="567" frameHeight="764" />
+<SubTexture name="menu_spidey idle0008" x="0" y="1528" width="567" height="764" frameX="0" frameY="0" frameWidth="567" frameHeight="764" />
+<SubTexture name="menu_spidey idle0009" x="0" y="1528" width="567" height="764" frameX="0" frameY="0" frameWidth="567" frameHeight="764" />
+<SubTexture name="menu_spidey idle0010" x="0" y="1528" width="567" height="764" frameX="0" frameY="0" frameWidth="567" frameHeight="764" />
+<SubTexture name="menu_spidey idle0011" x="0" y="1528" width="567" height="764" frameX="0" frameY="0" frameWidth="567" frameHeight="764" />
+<SubTexture name="menu_spidey idle0012" x="0" y="1528" width="567" height="764" frameX="0" frameY="0" frameWidth="567" frameHeight="764" />
+<SubTexture name="menu_spidey idle0013" x="0" y="1528" width="567" height="764" frameX="0" frameY="0" frameWidth="567" frameHeight="764" />
+</TextureAtlas>

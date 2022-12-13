@@ -25,7 +25,7 @@ using StringTools;
 
 class MainMenuState extends MusicBeatState
 {
-	public static var psychEngineVersion:String = '0.6.2'; //This is also used for Discord RPC
+	public static var psychEngineVersion:String = '0.5.1'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
 
 	var menuItems:FlxTypedGroup<FlxSprite>;
@@ -40,28 +40,24 @@ class MainMenuState extends MusicBeatState
 		'options'
 	];
 
-	var stowyuwu:FlxSprite;
-	var playforfree:FlxSprite;
-	var awawduwu:FlxSprite;
-	var owptionsuwu:FlxSprite;
-	var cweditsuwu:FlxSprite;
-
 	var magenta:FlxSprite;
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
 	var debugKeys:Array<FlxKey>;
 
+	var playforfree:FlxSprite;
+	var stowyuwu:FlxSprite;
+	var awawduwu:FlxSprite;
+	var owptionsuwu:FlxSprite;
+	var cweditsuwu:FlxSprite;
+
 	override function create()
 	{
-		#if MODS_ALLOWED
-		Paths.pushGlobalMods();
-		#end
-		WeekData.loadTheFirstEnabledMod();
-
 		#if desktop
 		// Updating Discord Rich Presence
 		DiscordClient.changePresence("In the Menus", null);
 		#end
+
 		debugKeys = ClientPrefs.copyKey(ClientPrefs.keyBinds.get('debug_1'));
 
 		camGame = new FlxCamera();
@@ -100,9 +96,8 @@ class MainMenuState extends MusicBeatState
 		magenta.antialiasing = ClientPrefs.globalAntialiasing;
 		magenta.color = 0xFFfd719b;
 		add(magenta);
-		
 		// magenta.scrollFactor.set();
-		
+
 		playforfree = new FlxSprite(0, 5000).loadGraphic(Paths.image('freeplayimage'));
         playforfree.antialiasing = ClientPrefs.globalAntialiasing;
         playforfree.scrollFactor.set(0);
@@ -173,7 +168,6 @@ class MainMenuState extends MusicBeatState
         add(owptionsuwu);
 		// FlxTween.tween(owptionsuwu, { x: owptionsuwu.x, y: owptionsuwu.y + 100 }, 2, { type: FlxTween.PINGPONG, ease: FlxEase.quadInOut});
 
-
 		menuItems = new FlxTypedGroup<FlxSprite>();
 		add(menuItems);
 
@@ -184,8 +178,8 @@ class MainMenuState extends MusicBeatState
 
 		for (i in 0...optionShit.length)
 		{
-			var offset:Float = 108 - (Math.max(optionShit.length, 4) - 4) * 80;
-			var menuItem:FlxSprite = new FlxSprite(95, (i * 145)  + offset);
+			var offset:Float = 108 - (Math.max(optionShit.length, 5) - 4) * 75;
+			var menuItem:FlxSprite = new FlxSprite(250, (i * 145)  + offset);
 			menuItem.scale.x = scale;
 			menuItem.scale.y = scale;
 			menuItem.frames = Paths.getSparrowAtlas('mainmenu/menu_' + optionShit[i]);
@@ -193,13 +187,12 @@ class MainMenuState extends MusicBeatState
 			menuItem.animation.addByPrefix('selected', optionShit[i] + " white", 24);
 			menuItem.animation.play('idle');
 			menuItem.ID = i;
-			// menuItem.screenCenter(X);
+			menuItem.x -= 150;
 			menuItems.add(menuItem);
 			var scr:Float = (optionShit.length - 4) * 0.135;
 			if(optionShit.length < 6) scr = 0;
 			menuItem.scrollFactor.set(0, scr);
 			menuItem.antialiasing = ClientPrefs.globalAntialiasing;
-			//menuItem.setGraphicSize(Std.int(menuItem.width * 0.58));
 			menuItem.updateHitbox();
 		}
 
@@ -250,7 +243,6 @@ class MainMenuState extends MusicBeatState
 		if (FlxG.sound.music.volume < 0.8)
 		{
 			FlxG.sound.music.volume += 0.5 * FlxG.elapsed;
-			if(FreeplayState.vocals != null) FreeplayState.vocals.volume += 0.5 * elapsed;
 		}
 
 		var lerpVal:Float = CoolUtil.boundTo(elapsed * 7.5, 0, 1);
@@ -259,10 +251,10 @@ class MainMenuState extends MusicBeatState
 		if (!selectedSomethin)
 		{
 			if (controls.UI_UP_P)
-			{
-				FlxG.sound.play(Paths.sound('scrollMenu'));
-				changeItem(-1);
-				if (optionShit[curSelected] == 'freeplay')
+				{
+					FlxG.sound.play(Paths.sound('scrollMenu'));
+					changeItem(-1);
+					if (optionShit[curSelected] == 'freeplay')
 					{
 						playforfree.visible = true;
 						owptionsuwu.visible = false;
@@ -303,13 +295,14 @@ class MainMenuState extends MusicBeatState
 						awawduwu.visible = false;
 						cweditsuwu.visible = false;
 					}
-			}
-
-			if (controls.UI_DOWN_P)
-			{
-				FlxG.sound.play(Paths.sound('scrollMenu'));
-				changeItem(1);
-				if (optionShit[curSelected] == 'freeplay')
+		
+				}
+	
+				if (controls.UI_DOWN_P)
+				{
+					FlxG.sound.play(Paths.sound('scrollMenu'));
+					changeItem(1);
+					if (optionShit[curSelected] == 'freeplay')
 					{
 						playforfree.visible = true;
 						owptionsuwu.visible = false;
@@ -325,7 +318,6 @@ class MainMenuState extends MusicBeatState
 						awawduwu.visible = false;
 						cweditsuwu.visible = false;
 					}
-	
 					if (optionShit[curSelected] == 'awards')
 					{
 						playforfree.visible = false;
@@ -350,7 +342,7 @@ class MainMenuState extends MusicBeatState
 						awawduwu.visible = false;
 						cweditsuwu.visible = false;
 					}
-			}
+				}
 
 			if (controls.BACK)
 			{
@@ -405,7 +397,7 @@ class MainMenuState extends MusicBeatState
 									case 'credits':
 										MusicBeatState.switchState(new CreditsState());
 									case 'options':
-										LoadingState.loadAndSwitchState(new options.OptionsState());
+										MusicBeatState.switchState(new options.OptionsState());
 								}
 							});
 						}

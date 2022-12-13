@@ -1,7 +1,7 @@
 {
 	"song": {
 		"sectionLengths": [],
-		"player1": "spiderman",
+		"player1": "spidey",
 		"events": [
 			[
 				137330.097087379,
@@ -14,7 +14,7 @@
 				]
 			]
 		],
-		"gfVersion": "gf",
+		"gfVersion": "dad",
 		"player2": "mysterio",
 		"notes": [
 			{

@@ -2,12 +2,40 @@
 IntroTextSize = 20	--Size of the text for the Now Playing thing.
 IntroSubTextSize = 30 --size of the text for the Song Name.
 IntroAuthorTextSize = 20
-IntroTagColor = 'e61717'	--Color of the tag at the end of the box.
+local IntroTagColor = 'e61717'	--Color of the tag at the end of the box.
 IntroTagWidth = 40	--Width of the box's tag thingy.
 --easy script configs
 
 --actual script
-function onCreate()
+function onCreatePost()
+	
+	IntroTagColor = 'e61717'	-- Default color of the tag at the end of the box.
+
+	if getPropertyFromClass('SONG.player2') == 'spiderman' then
+		-- the colour of the tag
+		IntroTagColor = '862320';
+
+	end
+	if getPropertyFromClass('PlayState', 'SONG.player2') == 'mysterio' then
+		-- the colour of the tag
+		IntroTagColor = '8c46b4';
+	end
+	if getPropertyFromClass('PlayState', 'SONG.player2') == 'venom' then
+		-- the colour of the tag
+		IntroTagColor = '1e2171';
+	end
+	if getPropertyFromClass('PlayState', 'SONG.player2') == 'doc-ock' then
+		-- the colour of the tag
+		IntroTagColor = 'f06d00';
+	end
+	if getPropertyFromClass('PlayState', 'SONG.player2') == 'electro' then
+		-- the colour of the tag
+		IntroTagColor = 'd7af50';
+	end
+	if getPropertyFromClass('PlayState', 'SONG.player2') == 'green-goblin' then
+		-- the colour of the tag
+		IntroTagColor = '168240';
+	end
 
 	--the tag at the end of the box
 	makeLuaSprite('JukeBoxTag', 'empty', -300-IntroTagWidth, 15)

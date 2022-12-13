@@ -1,0 +1,11 @@
+{
+	
+	"image": "menu_mysterio",
+	"position": [
+		270,
+		200
+	],
+	"scale": 0.5,
+	"idle_anim": "menu_mysterio idle",
+	"confirm_anim": "menu_mysterio idle"
+}

@@ -6,16 +6,6 @@
 	"weekBefore": "Week 7",
 	"startUnlocked": true,
 	"songs": [
-
-		[
-			"Hello Peter",
-			"doc-ock",
-			[
-				246,
-				113,
-				0
-			]
-		],
 		[
 			"last-reel",
 			"mysterio",
@@ -63,6 +53,15 @@
 		],
 		[
 			"Quaoar",
+			"spidey",
+			[
+				186,
+				20,
+				0
+			]
+		],
+		[
+			"Gunpowder",
 			"spidey",
 			[
 				186,

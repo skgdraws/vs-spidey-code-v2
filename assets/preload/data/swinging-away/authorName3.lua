@@ -1,3 +1,3 @@
 function onSongStart()
-    triggerEvent('Intro', '', 'By DankerDoodle')
+    triggerEvent('Intro', '', 'By InkerDoodle')
     end

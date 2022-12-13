@@ -12,7 +12,6 @@ import flixel.math.FlxMath;
 import flixel.text.FlxText;
 import flixel.util.FlxColor;
 import flixel.tweens.FlxTween;
-import flixel.tweens.FlxEase;
 #if MODS_ALLOWED
 import sys.FileSystem;
 import sys.io.File;
@@ -33,9 +32,6 @@ class CreditsState extends MusicBeatState
 	var descText:FlxText;
 	var intendedColor:Int;
 	var colorTween:FlxTween;
-	var descBox:AttachedSprite;
-
-	var offsetThing:Float = -75;
 
 	override function create()
 	{
@@ -44,86 +40,80 @@ class CreditsState extends MusicBeatState
 		DiscordClient.changePresence("In the Menus", null);
 		#end
 
-		persistentUpdate = true;
 		bg = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
 		add(bg);
-		bg.screenCenter();
-		
+
 		grpOptions = new FlxTypedGroup<Alphabet>();
 		add(grpOptions);
 
 		#if MODS_ALLOWED
-		var path:String = 'modsList.txt';
-		if(FileSystem.exists(path))
+		//trace("finding mod shit");
+		for (folder in Paths.getModDirectories())
 		{
-			var leMods:Array<String> = CoolUtil.coolTextFile(path);
-			for (i in 0...leMods.length)
+			var creditsFile:String = Paths.mods(folder + '/data/credits.txt');
+			if (FileSystem.exists(creditsFile))
 			{
-				if(leMods.length > 1 && leMods[0].length > 0) {
-					var modSplit:Array<String> = leMods[i].split('|');
-					if(!Paths.ignoreModFolders.contains(modSplit[0].toLowerCase()) && !modsAdded.contains(modSplit[0]))
-					{
-						if(modSplit[1] == '1')
-							pushModCreditsToList(modSplit[0]);
-						else
-							modsAdded.push(modSplit[0]);
-					}
+				var firstarray:Array<String> = File.getContent(creditsFile).split('\n');
+				for(i in firstarray)
+				{
+					var arr:Array<String> = i.replace('\\n', '\n').split("::");
+					if(arr.length >= 5) arr.push(folder);
+					creditsStuff.push(arr);
 				}
+				creditsStuff.push(['']);
 			}
-		}
-
-		var arrayOfFolders:Array<String> = Paths.getModDirectories();
-		arrayOfFolders.push('');
-		for (folder in arrayOfFolders)
-		{
-			pushModCreditsToList(folder);
-		}
+		};
+		var folder = "";
+			var creditsFile:String = Paths.mods('data/credits.txt');
+			if (FileSystem.exists(creditsFile))
+			{
+				var firstarray:Array<String> = File.getContent(creditsFile).split('\n');
+				for(i in firstarray)
+				{
+					var arr:Array<String> = i.replace('\\n', '\n').split("::");
+					if(arr.length >= 5) arr.push(folder);
+					creditsStuff.push(arr);
+				}
+				creditsStuff.push(['']);
+			}
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Team Drift'],
-			["Driftyboyy0",			"drifty",			"Lead Director and Spider-man's Voice Actor",			"https://twitter.com/driftyboyy0",		"E61717"],
-			["Taco",				"t8ku",				"Mysterio's Voice Actor and Co Director",				"https://twitter.com/T8KU_",			"762BDF"],
-			["SKG Art",				"skg",				"Main Character Animator\nMain Coder",					"https://instagram.com/skygame_art",	"3F517D"],
+			["Driftyboyy0",			"drifty",			"Lead Director and Spider-man's Voice Actor\nRemade the backgrounds",			"https://twitter.com/driftyboyy0",		"E61717"],
+			["SKG Art",				"skg",				"Main Character Animator\nMain Coder\nCorrected some backgrounds",				"https://instagram.com/skygame_art",	"3F517D"],
 			["Shekkai47",			"rae",				"Musician\nVenom and Doc Ock Voice Actor",				"https://twitter.com/screamingneko",	"81C8FE"],
 			["Lil Tico",			"tico",				"Musician of the mod",									"https://twitter.com/Liltico2",			"E61717"],
-			["notXXXayne",			"xayne",			"Composed Spectacular's Inst",							"https://twitter.com/notxxxayne",		"762BDF"],
-			["SpringVeryEpic",		"spring","Charter of Vol. I\nCharted Doc Ock, Green Goblin and Bonus songs","https://twitter.com/SpringVeryEpic",	"D0B54F"],
+			["notXXXayne",			"xayne",			"Composed Spectacular's Inst",							"https://twitter.com/Liltico2",			"762BDF"],
+			["Inkerdoodle",			"doodle",			"Composer for Swinging Away",							"https://twitter.com/Darkerdoodle",		"A61717"],
 			["MagiWagi",			"magi",				"Charted Electro Week and Unpunished",					"https://twitter.com/MagiciansWRLD",	"F578BD"],
 			["BigWes99",			"wes",				"Green Goblin's Voice Actor",							"https://youtube.com/c/BigWes99",		"762BDF"],
 			["Prowerpower",			"prower",			"Girlfriend's Voice Actor",								"https://twitter.com/prowerpowerr",		"D3581B"],
-			["JazzyLad",			"jazzy",			"Main Background Artist",								"https://twitter.com/3_cinnamonroll",	"F578BD"],
-			["Creezo",				"creezo",			"Vol. I Background Artist",								"https://twitter.com/Creezo_tweets",	"FFFFFF"],
-			["KyoOrCraked (Kyofu)",	"kyofu",			"Vol. I Programmer",				 "https://www.youtube.com/channel/UCUTqIUFwC6TVP_95jo4JQRw","D3581B"],
 			[""],
-			["Special Thanks"],
-			["Darkerdoodle",		"doodle",			"Composer for Swinging Away",							"https://twitter.com/Darkerdoodle",		"A61717"],
-			["m00naster",			"m00n",				"Animation Consultant and Support\nPlaytester",			"https://instagram.com/m00naster",		"C09B41"],
-			["TheWiseDoge",			"doge",				"Playtester\nAverage Andrew Garfield Enjoyer",			"https://twitter.com/TheWiseDoge26",	"D3581B"],
-			["This is Fine",		"fine",				"The guy who reanimated BF",							"https://gamebanana.com/mods/342278", 	"FFFFFF"],
+			["Retired Members"],
+			["Taco",				"t8ku",				"Mysterio's Voice Actor and Co Director",				"https://twitter.com/T8KU_",			"762BDF"],
+			["SpringVeryEpic",		"spring","Charter of Vol. I\nCharted Doc Ock, Green Goblin and Bonus songs","https://twitter.com/SpringVeryEpic",	"D0B54F"],
+			["JazzyLad",			"jazzy",			"Old Background Artist",								"https://twitter.com/3_cinnamonroll",	"F578BD"],
+			["Creezo",				"creezo",			"Vol. I Background Artist",								"https://twitter.com/Creezo_tweets",	"FFFFFF"],
+			["KyoOrCraked (Kyofu)",	"kyofu",			"Vol. I Programmer",				 					"https://www.youtube.com/channel/UCUTqIUFwC6TVP_95jo4JQRw",		"D3581B"],
 			[""],
 			['Psych Engine Team'],
-			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
-			['RiverOaken',			'river',			'Main Artist/Animator of Psych Engine',							'https://twitter.com/RiverOaken',		'B42F71'],
-			['shubs',				'shubs',			'Additional Programmer of Psych Engine',						'https://twitter.com/yoshubs',			'5E99DF'],
-			[''],
-			['Former Engine Members'],
-			['bb-panzu',			'bb',				'Ex-Programmer of Psych Engine',								'https://twitter.com/bbsub3',			'3E813A'],
+			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',						'https://twitter.com/Shadow_Mario_',	'444444'],
+			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',					'https://twitter.com/river_oaken',		'C30085'],
+			['bb-panzu',			'bb-panzu',			'Additional Programmer of Psych Engine',				'https://twitter.com/bbsub3',			'389A58'],
 			[''],
 			['Engine Contributors'],
-			['iFlicky',				'flicky',			'Composer of Psync and Tea Time\nMade the Dialogue Sounds',		'https://twitter.com/flicky_i',			'9E29CF'],
-			['SqirraRNG',			'sqirra',			'Crash Handler and Base code for\nChart Editor\'s Waveform',	'https://twitter.com/gedehari',			'E1843A'],
-			['PolybiusProxy',		'proxy',			'.MP4 Video Loader Library (hxCodec)',							'https://twitter.com/polybiusproxy',	'DCD294'],
-			['KadeDev',				'kade',				'Fixed some cool stuff on Chart Editor\nand other PRs',			'https://twitter.com/kade0912',			'64A250'],
-			['Keoiki',				'keoiki',			'Note Splash Animations',										'https://twitter.com/Keoiki_',			'D2D2D2'],
-			['Nebula the Zorua',	'nebula',			'LUA JIT Fork and some Lua reworks',							'https://twitter.com/Nebula_Zorua',		'7D40B2'],
-			['Smokey',				'smokey',			'Sprite Atlas Support',											'https://twitter.com/Smokey_5_',		'483D92'],
+			['shubs',				'shubs',			'New Input System Programmer',							'https://twitter.com/yoshubs',			'4494E6'],
+			['SqirraRNG',			'gedehari',			'Chart Editor\'s Sound Waveform base',					'https://twitter.com/gedehari',			'FF9300'],
+			['iFlicky',				'iflicky',			'Delay/Combo Menu Song Composer\nand Dialogue Sounds',	'https://twitter.com/flicky_i',			'C549DB'],
+			['PolybiusProxy',		'polybiusproxy',	'.MP4 Video Loader Extension',							'https://twitter.com/polybiusproxy',	'FFEAA6'],
+			['Keoiki',				'keoiki',			'Note Splash Animations',								'https://twitter.com/Keoiki_',			'FFFFFF'],
 			[''],
 			["Funkin' Crew"],
-			['ninjamuffin99',		'ninjamuffin99',	"Programmer of Friday Night Funkin'",							'https://twitter.com/ninja_muffin99',	'CF2D2D'],
-			['PhantomArcade',		'phantomarcade',	"Animator of Friday Night Funkin'",								'https://twitter.com/PhantomArcade3K',	'FADC45'],
-			['evilsk8r',			'evilsk8r',			"Artist of Friday Night Funkin'",								'https://twitter.com/evilsk8r',			'5ABD4B'],
-			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",								'https://twitter.com/kawaisprite',		'378FC7']
+			['ninjamuffin99',		'ninjamuffin99',	"Programmer of Friday Night Funkin'",					'https://twitter.com/ninja_muffin99',	'F73838'],
+			['PhantomArcade',		'phantomarcade',	"Animator of Friday Night Funkin'",						'https://twitter.com/PhantomArcade3K',	'FFBB1B'],
+			['evilsk8r',			'evilsk8r',			"Artist of Friday Night Funkin'",						'https://twitter.com/evilsk8r',			'53E52C'],
+			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",						'https://twitter.com/kawaisprite',		'6475F3']
 		];
 		
 		for(i in pisspoop){
@@ -163,20 +153,11 @@ class CreditsState extends MusicBeatState
 				if(curSelected == -1) curSelected = i;
 			}
 		}
-		
-		descBox = new AttachedSprite();
-		descBox.makeGraphic(1, 1, FlxColor.BLACK);
-		descBox.xAdd = -10;
-		descBox.yAdd = -10;
-		descBox.alphaMult = 0.6;
-		descBox.alpha = 0.6;
-		add(descBox);
 
-		descText = new FlxText(50, FlxG.height + offsetThing - 25, 1180, "", 32);
-		descText.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER/*, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK*/);
+		descText = new FlxText(50, 600, 1180, "", 32);
+		descText.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		descText.scrollFactor.set();
-		//descText.borderSize = 2.4;
-		descBox.sprTracker = descText;
+		descText.borderSize = 2.4;
 		add(descText);
 
 		bg.color = getCurrentBGColor();
@@ -185,8 +166,6 @@ class CreditsState extends MusicBeatState
 		super.create();
 	}
 
-	var quitting:Bool = false;
-	var holdTime:Float = 0;
 	override function update(elapsed:Float)
 	{
 		if (FlxG.sound.music.volume < 0.7)
@@ -194,77 +173,32 @@ class CreditsState extends MusicBeatState
 			FlxG.sound.music.volume += 0.5 * FlxG.elapsed;
 		}
 
-		if(!quitting)
+		var upP = controls.UI_UP_P;
+		var downP = controls.UI_DOWN_P;
+
+		if (upP)
 		{
-			if(creditsStuff.length > 1)
-			{
-				var shiftMult:Int = 1;
-				if(FlxG.keys.pressed.SHIFT) shiftMult = 3;
-
-				var upP = controls.UI_UP_P;
-				var downP = controls.UI_DOWN_P;
-
-				if (upP)
-				{
-					changeSelection(-1 * shiftMult);
-					holdTime = 0;
-				}
-				if (downP)
-				{
-					changeSelection(1 * shiftMult);
-					holdTime = 0;
-				}
-
-				if(controls.UI_DOWN || controls.UI_UP)
-				{
-					var checkLastHold:Int = Math.floor((holdTime - 0.5) * 10);
-					holdTime += elapsed;
-					var checkNewHold:Int = Math.floor((holdTime - 0.5) * 10);
-
-					if(holdTime > 0.5 && checkNewHold - checkLastHold > 0)
-					{
-						changeSelection((checkNewHold - checkLastHold) * (controls.UI_UP ? -shiftMult : shiftMult));
-					}
-				}
-			}
-
-			if(controls.ACCEPT && (creditsStuff[curSelected][3] == null || creditsStuff[curSelected][3].length > 4)) {
-				CoolUtil.browserLoad(creditsStuff[curSelected][3]);
-			}
-			if (controls.BACK)
-			{
-				if(colorTween != null) {
-					colorTween.cancel();
-				}
-				FlxG.sound.play(Paths.sound('cancelMenu'));
-				MusicBeatState.switchState(new MainMenuState());
-				quitting = true;
-			}
+			changeSelection(-1);
 		}
-		
-		for (item in grpOptions.members)
+		if (downP)
 		{
-			if(!item.isBold)
-			{
-				var lerpVal:Float = CoolUtil.boundTo(elapsed * 12, 0, 1);
-				if(item.targetY == 0)
-				{
-					var lastX:Float = item.x;
-					item.screenCenter(X);
-					item.x = FlxMath.lerp(lastX, item.x - 70, lerpVal);
-					item.forceX = item.x;
-				}
-				else
-				{
-					item.x = FlxMath.lerp(item.x, 200 + -40 * Math.abs(item.targetY), lerpVal);
-					item.forceX = item.x;
-				}
+			changeSelection(1);
+		}
+
+		if (controls.BACK)
+		{
+			if(colorTween != null) {
+				colorTween.cancel();
 			}
+			FlxG.sound.play(Paths.sound('cancelMenu'));
+			MusicBeatState.switchState(new MainMenuState());
+		}
+		if(controls.ACCEPT) {
+			CoolUtil.browserLoad(creditsStuff[curSelected][3]);
 		}
 		super.update(elapsed);
 	}
 
-	var moveTween:FlxTween = null;
 	function changeSelection(change:Int = 0)
 	{
 		FlxG.sound.play(Paths.sound('scrollMenu'), 0.4);
@@ -303,41 +237,8 @@ class CreditsState extends MusicBeatState
 				}
 			}
 		}
-
 		descText.text = creditsStuff[curSelected][2];
-		descText.y = FlxG.height - descText.height + offsetThing - 60;
-
-		if(moveTween != null) moveTween.cancel();
-		moveTween = FlxTween.tween(descText, {y : descText.y + 75}, 0.25, {ease: FlxEase.sineOut});
-
-		descBox.setGraphicSize(Std.int(descText.width + 20), Std.int(descText.height + 25));
-		descBox.updateHitbox();
 	}
-
-	#if MODS_ALLOWED
-	private var modsAdded:Array<String> = [];
-	function pushModCreditsToList(folder:String)
-	{
-		if(modsAdded.contains(folder)) return;
-
-		var creditsFile:String = null;
-		if(folder != null && folder.trim().length > 0) creditsFile = Paths.mods(folder + '/data/credits.txt');
-		else creditsFile = Paths.mods('data/credits.txt');
-
-		if (FileSystem.exists(creditsFile))
-		{
-			var firstarray:Array<String> = File.getContent(creditsFile).split('\n');
-			for(i in firstarray)
-			{
-				var arr:Array<String> = i.replace('\\n', '\n').split("::");
-				if(arr.length >= 5) arr.push(folder);
-				creditsStuff.push(arr);
-			}
-			creditsStuff.push(['']);
-		}
-		modsAdded.push(folder);
-	}
-	#end
 
 	function getCurrentBGColor() {
 		var bgColor:String = creditsStuff[curSelected][4];

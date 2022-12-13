@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_mysterio.png">
+<SubTexture name="menu_mysterio idle0000" x="0" y="0" width="659" height="764" frameX="0" frameY="0" frameWidth="659" frameHeight="764" />
+<SubTexture name="menu_mysterio idle0001" x="659" y="0" width="659" height="764" frameX="0" frameY="0" frameWidth="659" frameHeight="764" />
+<SubTexture name="menu_mysterio idle0002" x="0" y="764" width="659" height="764" frameX="0" frameY="0" frameWidth="659" frameHeight="764" />
+<SubTexture name="menu_mysterio idle0003" x="659" y="764" width="659" height="764" frameX="0" frameY="0" frameWidth="659" frameHeight="764" />
+<SubTexture name="menu_mysterio idle0004" x="0" y="1528" width="659" height="764" frameX="0" frameY="0" frameWidth="659" frameHeight="764" />
+<SubTexture name="menu_mysterio idle0005" x="0" y="1528" width="659" height="764" frameX="0" frameY="0" frameWidth="659" frameHeight="764" />
+<SubTexture name="menu_mysterio idle0006" x="0" y="1528" width="659" height="764" frameX="0" frameY="0" frameWidth="659" frameHeight="764" />
+<SubTexture name="menu_mysterio idle0007" x="0" y="1528" width="659" height="764" frameX="0" frameY="0" frameWidth="659" frameHeight="764" />
+<SubTexture name="menu_mysterio idle0008" x="0" y="1528" width="659" height="764" frameX="0" frameY="0" frameWidth="659" frameHeight="764" />
+<SubTexture name="menu_mysterio idle0009" x="0" y="1528" width="659" height="764" frameX="0" frameY="0" frameWidth="659" frameHeight="764" />
+<SubTexture name="menu_mysterio idle0010" x="0" y="1528" width="659" height="764" frameX="0" frameY="0" frameWidth="659" frameHeight="764" />
+<SubTexture name="menu_mysterio idle0011" x="0" y="1528" width="659" height="764" frameX="0" frameY="0" frameWidth="659" frameHeight="764" />
+<SubTexture name="menu_mysterio idle0012" x="0" y="1528" width="659" height="764" frameX="0" frameY="0" frameWidth="659" frameHeight="764" />
+<SubTexture name="menu_mysterio idle0013" x="0" y="1528" width="659" height="764" frameX="0" frameY="0" frameWidth="659" frameHeight="764" />
+</TextureAtlas>
