@@ -1,20 +1,16 @@
 {
-	"storyName": "Electro",
+	"storyName": "Pure Electricity",
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "electro",
+	"weekBefore": "week4",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "week4",
 	"startUnlocked": false,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Sparkle",
@@ -44,6 +40,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
 	"weekName": "Week4"
 }

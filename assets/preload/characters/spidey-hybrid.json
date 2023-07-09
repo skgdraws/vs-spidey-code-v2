@@ -76,11 +76,11 @@
     ],
 
     "no_antialiasing": false,
-    "image": "characters/spidey-hybrid",
+    "image": "characters/version2/spidey-hybrid",
     
     "position": [
         0,
-        0
+        -30
     ],
 
     "healthicon": "spidey",

@@ -1,38 +1,38 @@
 --configs
 
-local character = 'characters/spidey-mirror-gb' --put the name of the character's spritesheet here
+local character = 'characters/version2/spidey-hybrid' --put the name of the character's spritesheet here
 --add mods/images behind characters if you are gonna use characters in the mods folder instead
 
 --the offsets
 local posX = 200
-local posY = 350
+local posY = 300
 
 local xidleoffs = 0 --X
 local yidleoffs = 10 --Y
 
-local xleftoffs = -1 --X
+local xleftoffs = -51 --X
 local yleftoffs = 10 --Y
 
-local xdownoffs = -1 --X
+local xdownoffs = -21 --X
 local ydownoffs = 10 --Y
 
 local xupoffs = -6 --X
 local yupoffs = 10 --Y
 
-local xrightoffs = -30 --X
+local xrightoffs = 10 --X
 local yrightoffs = 10 --Y
 
 --the poses in the xml
 
-local idle = 'spidey-mirror-gb Idle Dance' --idle
+local idle = 'spidey-hybrid Idle Dance' --idle
 
-local left = 'spidey-mirror-gb Sing Note LEFT' --left
+local left = 'spidey-hybrid Sing Note RIGHT' --left
 
-local down = 'spidey-mirror-gb Sing Note DOWN' --down
+local down = 'spidey-hybrid Sing Note DOWN' --down
 
-local up = 'spidey-mirror-gb Sing Note UP' --up
+local up = 'spidey-hybrid Sing Note UP' --up
 
-local right = 'spidey-mirror-gb Sing Note RIGHT' --right
+local right = 'spidey-hybrid Sing Note LEFT' --right
 
 --miss poses (optional)
 
@@ -56,6 +56,7 @@ local fps = 24 --24 is the default fps
 local idling = true
 function onCreatePost()
     makeAnimatedLuaSprite('player3', character, 0, 0)
+    setProperty('player3.flipX', true)
     setProperty('player3.x', getProperty('boyfriend.x') + posX + xidleoffs)
     setProperty('player3.y', getProperty('boyfriend.y') - posY + yidleoffs)
     addAnimationByPrefix('player3', 'idle', idle, fps, false)
@@ -77,6 +78,7 @@ function onCreatePost()
     addLuaSprite('player3', true)
 end
 function goodNoteHit(id, noteData, noteType, isSustainNote)
+
     if noteType == 'No Animation' then
         idling = false
         if noteData == 0 then

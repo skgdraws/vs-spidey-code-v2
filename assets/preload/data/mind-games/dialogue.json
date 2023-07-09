@@ -1,6 +1,7 @@
 {
 	"dialogue": [
 		{
+			"sound": "dialogue-mysterio",
 			"speed": 0.05,
 			"portrait": "mysterio",
 			"boxState": "normal",
@@ -8,6 +9,7 @@
 			"text": "Finally, I can get back at Spider-Man for messing up my plans! He should be here any second!"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -15,6 +17,7 @@
 			"text": "beep!"
 		},
 		{
+			"sound": "dialogue-mysterio",
 			"speed": 0.05,
 			"portrait": "mysterio",
 			"boxState": "normal",
@@ -22,6 +25,7 @@
 			"text": "What the hell?! What are you doing here?!"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -29,6 +33,7 @@
 			"text": "beep?"
 		},
 		{
+			"sound": "dialogue-mysterio",
 			"speed": 0.05,
 			"portrait": "Mysterio",
 			"boxState": "normal",
@@ -36,6 +41,7 @@
 			"text": "You're not Spider-Man!!"
 		},
 		{
+			"sound": "dialogue-gf",
 			"speed": 0.05,
 			"portrait": "gf",
 			"boxState": "normal",
@@ -43,6 +49,7 @@
 			"text": "Oh you know Spider-Man? Cool! We just rap battled him a week ago!"
 		},
 		{
+			"sound": "dialogue-mysterio",
 			"speed": 0.05,
 			"portrait": "mysterio",
 			"boxState": "normal",
@@ -50,6 +57,7 @@
 			"text": "That is the most idiotic thing I've ever heard. Anyways, what can I do to get you guys to go away./"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -57,6 +65,7 @@
 			"text": "bop beep"
 		},
 		{
+			"sound": "dialogue-mysterio",
 			"speed": 0.05,
 			"portrait": "mysterio",
 			"boxState": "normal",
@@ -64,6 +73,7 @@
 			"text": "........"
 		},
 		{
+			"sound": "dialogue-mysterio",
 			"speed": 0.05,
 			"portrait": "mysterio",
 			"boxState": "normal",

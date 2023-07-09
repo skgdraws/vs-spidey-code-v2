@@ -1,5 +1,5 @@
 {
-	"storyName": "Green Goblin",
+	"storyName": "The Man that took Everything",
 	"hideFreeplay": false,
 	"weekBackground": "goobler",
 	"weekBefore": "week5",
@@ -39,5 +39,6 @@
 		]
 	],
 	"hideStoryMode": false,
+	"hiddenUntilUnlocked": true,
 	"weekName": "Week 4"
 }

@@ -1,22 +1,44 @@
 {
-	"songs": [
-		["Mind Games", "mysterio", [47, 108, 71]],
-		["Illusion", "mysterio", [47, 108, 71]],
-		["Drones", "mysterio", [47, 108, 71]]
-	],
-
+	"storyName": "The Master of Illusions",
+	"hideFreeplay": false,
+	"weekBackground": "mysterio",
+	"weekBefore": "week1",
+	"startUnlocked": false,
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"weekBackground": "mysterio",
-
-	"storyName": "Mysterio",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": false,
-
+	"songs": [
+		[
+			"Mind Games",
+			"mysterio",
+			[
+				47,
+				108,
+				71
+			]
+		],
+		[
+			"Illusion",
+			"mysterio",
+			[
+				47,
+				108,
+				71
+			]
+		],
+		[
+			"Drones",
+			"mysterio",
+			[
+				47,
+				108,
+				71
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hiddenUntilUnlocked": true,
+	"weekName": "Week 2"
 }

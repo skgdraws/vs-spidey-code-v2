@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boy.png"><SubTexture name="boy idle0000" x="1020" y="369" width="370" height="357" frameX="0" frameY="0" frameWidth="370" frameHeight="357" />
+<SubTexture name="boy idle0001" x="0" y="778" width="370" height="357" frameX="0" frameY="0" frameWidth="370" frameHeight="357" />
+<SubTexture name="boy idle0002" x="370" y="778" width="370" height="357" frameX="0" frameY="0" frameWidth="370" frameHeight="357" />
+<SubTexture name="boy idle0003" x="740" y="778" width="370" height="357" frameX="0" frameY="0" frameWidth="370" frameHeight="357" />
+<SubTexture name="boy left0000" x="670" y="0" width="350" height="372" frameX="0" frameY="0" frameWidth="350" frameHeight="372" />
+<SubTexture name="boy left0001" x="0" y="406" width="352" height="372" frameX="0" frameY="0" frameWidth="352" frameHeight="372" />
+<SubTexture name="boy down0000" x="1401" y="675" width="325" height="317" frameX="0" frameY="0" frameWidth="325" frameHeight="317" />
+<SubTexture name="boy down0001" x="1401" y="357" width="325" height="318" frameX="0" frameY="0" frameWidth="325" frameHeight="318" />
+<SubTexture name="boy up0000" x="335" y="0" width="335" height="405" frameX="0" frameY="0" frameWidth="335" frameHeight="405" />
+<SubTexture name="boy up0001" x="0" y="0" width="335" height="406" frameX="0" frameY="0" frameWidth="335" frameHeight="406" />
+<SubTexture name="boy right0000" x="352" y="406" width="382" height="369" frameX="0" frameY="0" frameWidth="382" frameHeight="369" />
+<SubTexture name="boy right0001" x="1020" y="0" width="381" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369" />
+<SubTexture name="boy hey0000" x="1401" y="0" width="388" height="357" frameX="0" frameY="0" frameWidth="388" frameHeight="357" />
+</TextureAtlas>

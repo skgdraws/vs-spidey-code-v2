@@ -1,6 +1,7 @@
 {
 	"dialogue": [
 		{
+			"sound": "dialogue-doc-ock",
 			"speed": 0.05,
 			"portrait": "Doc-ock",
 			"boxState": "normal",
@@ -8,6 +9,7 @@
 			"text": "Hello Pet-"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -15,6 +17,7 @@
 			"text": "bep?"
 		},
 		{
+			"sound": "dialogue-doc-ock",
 			"speed": 0.05,
 			"portrait": "doc-ock",
 			"boxState": "normal",
@@ -22,6 +25,8 @@
 			"text": "You are not Peter Parker."
 		},
 		{
+
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -29,6 +34,7 @@
 			"text": "skidoop bop"
 		},
 		{
+			"sound": "dialogue-doc-ock",
 			"speed": 0.05,
 			"portrait": "doc-ock",
 			"boxState": "normal",
@@ -36,6 +42,7 @@
 			"text": "A rap battle? "
 		},
 		{
+			"sound": "dialogue-doc-ock",
 			"speed": 0.05,
 			"portrait": "doc-ock",
 			"boxState": "normal",
@@ -43,6 +50,7 @@
 			"text": "Wait, we are getting off track. Where is my machine!"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -50,6 +58,7 @@
 			"text": "uhm bop!"
 		},
 		{
+			"sound": "dialogue-doc-ock",
 			"speed": 0.05,
 			"portrait": "doc-ock",
 			"boxState": "normal",
@@ -57,6 +66,7 @@
 			"text": "Fine. You are stubborn."
 		},
 		{
+			"sound": "dialogue-doc-ock",
 			"speed": 0.05,
 			"portrait": "doc-ock",
 			"boxState": "normal",
@@ -64,6 +74,7 @@
 			"text": "If I rap battle you, will you tell me where my machine is? "
 		},
 		{
+			"sound": "dialogue-doc-ock",
 			"speed": 0.05,
 			"portrait": "doc-ock",
 			"boxState": "normal",
@@ -71,6 +82,7 @@
 			"text": "Better yet, will you tell me where Peter \\nParker is. "
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -78,6 +90,7 @@
 			"text": "maybe"
 		},
 		{
+			"sound": "dialogue-doc-ock",
 			"speed": 0.05,
 			"portrait": "doc-ock",
 			"boxState": "normal",

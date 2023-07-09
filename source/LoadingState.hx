@@ -1,5 +1,6 @@
 package;
 
+import flixel.text.FlxText;
 import lime.app.Promise;
 import lime.app.Future;
 import flixel.FlxG;
@@ -44,9 +45,39 @@ class LoadingState extends MusicBeatState
 	var loadBar:FlxSprite;
 	override function create()
 	{
-		var bg:FlxSprite = new FlxSprite(0, 0).makeGraphic(FlxG.width, FlxG.height, 0xffcaff4d);
+		var bg:FlxSprite = new FlxSprite(0, 0).makeGraphic(FlxG.width, FlxG.height, 0xff000000);
 		add(bg);
-		funkay = new FlxSprite(0, 0).loadGraphic(Paths.getPath('images/funkay.png', IMAGE));
+
+		var randomScreen:Int = FlxG.random.int(0, 5);
+
+		switch(randomScreen){
+
+			case 0:
+				funkay = new FlxSprite(0, 0).loadGraphic(Paths.getPath('images/load/spidey-jojo-real.png', IMAGE));
+				trace('the loading screen is spidey-jojo-real');
+
+			case 1:
+				funkay = new FlxSprite(0, 0).loadGraphic(Paths.getPath('images/load/mysterio.png', IMAGE));
+				trace('the loading screen is mysterio');
+			
+			case 2:
+				funkay = new FlxSprite(0, 0).loadGraphic(Paths.getPath('images/load/cool-arasey-art.png', IMAGE));
+				trace('the loading screen is cool-arasey-art');
+				
+			case 3:
+				funkay = new FlxSprite(0, 0).loadGraphic(Paths.getPath('images/load/thank-u-spidey.png', IMAGE));
+				trace('the loading screen is thank-u-spidey');
+
+			case 4:
+				funkay = new FlxSprite(0, 0).loadGraphic(Paths.getPath('images/load/electro.png', IMAGE));
+				trace('the loading screen is electro');
+
+			case 5:
+				funkay = new FlxSprite(0, 0).loadGraphic(Paths.getPath('images/load/give-me-a-break.png', IMAGE));
+				trace('the loading screen is give-me-a-break');
+				
+		}
+
 		funkay.setGraphicSize(0, FlxG.height);
 		funkay.updateHitbox();
 		funkay.antialiasing = ClientPrefs.globalAntialiasing;
@@ -54,10 +85,17 @@ class LoadingState extends MusicBeatState
 		funkay.scrollFactor.set();
 		funkay.screenCenter();
 
-		loadBar = new FlxSprite(0, FlxG.height - 20).makeGraphic(FlxG.width, 10, 0xffff16d2);
-		loadBar.screenCenter(X);
-		loadBar.antialiasing = ClientPrefs.globalAntialiasing;
-		add(loadBar);
+		if(randomScreen == 1 || randomScreen == 2){
+			var loadingText:FlxText = new FlxText(15, FlxG.height - 30, 0, "Loading...", 15);
+			loadingText.scrollFactor.set();
+			loadingText.setFormat("VCR OSD Mono", 16, 0xFFFFFFFF, LEFT, FlxTextBorderStyle.OUTLINE, 0xFF000000);
+			add(loadingText);
+		}
+
+		// loadBar = new FlxSprite(0, FlxG.height - 20).makeGraphic(FlxG.width, 10, 0xff8f1c1c);
+		// loadBar.screenCenter(X);
+		// loadBar.antialiasing = ClientPrefs.globalAntialiasing;
+		// add(loadBar);
 		
 		initSongsManifest().onComplete
 		(
@@ -65,11 +103,11 @@ class LoadingState extends MusicBeatState
 			{
 				callbacks = new MultiCallback(onLoad);
 				var introComplete = callbacks.add("introComplete");
-				if (PlayState.SONG != null) {
+				/*if (PlayState.SONG != null) {
 					checkLoadSong(getSongPath());
 					if (PlayState.SONG.needsVoices)
 						checkLoadSong(getVocalPath());
-				}
+				}*/
 				checkLibrary("shared");
 				if(directory != null && directory.length > 0 && directory != 'shared') {
 					checkLibrary(directory);
@@ -113,17 +151,17 @@ class LoadingState extends MusicBeatState
 	override function update(elapsed:Float)
 	{
 		super.update(elapsed);
-		funkay.setGraphicSize(Std.int(0.88 * FlxG.width + 0.9 * (funkay.width - 0.88 * FlxG.width)));
-		funkay.updateHitbox();
-		if(controls.ACCEPT)
-		{
-			funkay.setGraphicSize(Std.int(funkay.width + 60));
-			funkay.updateHitbox();
-		}
+		// funkay.setGraphicSize(Std.int(0.88 * FlxG.width + 0.9 * (funkay.width - 0.88 * FlxG.width)));
+		// funkay.updateHitbox();
+		// if(controls.ACCEPT)
+		// {
+		// 	funkay.setGraphicSize(Std.int(funkay.width + 60));
+		// 	funkay.updateHitbox();
+		// }
 
 		if(callbacks != null) {
 			targetShit = FlxMath.remapToRange(callbacks.numRemaining / callbacks.length, 1, 0, 0, 1);
-			loadBar.scale.x += 0.5 * (targetShit - loadBar.scale.x);
+			//loadBar.scale.x += 0.5 * (targetShit - loadBar.scale.x);
 		}
 	}
 	

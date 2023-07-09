@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="girl.png"><SubTexture name="girl dance left0000" x="0" y="0" width="743" height="670" frameX="0" frameY="0" frameWidth="743" frameHeight="670" />
+<SubTexture name="girl dance left0001" x="743" y="0" width="743" height="668" frameX="0" frameY="0" frameWidth="743" frameHeight="668" />
+<SubTexture name="girl dance left0002" x="0" y="670" width="743" height="660" frameX="0" frameY="0" frameWidth="743" frameHeight="660" />
+<SubTexture name="girl dance left0003" x="1486" y="628" width="743" height="626" frameX="0" frameY="0" frameWidth="743" frameHeight="626" />
+<SubTexture name="girl dance left0004" x="0" y="670" width="743" height="660" frameX="0" frameY="0" frameWidth="743" frameHeight="660" />
+<SubTexture name="girl dance left0005" x="743" y="0" width="743" height="668" frameX="0" frameY="0" frameWidth="743" frameHeight="668" />
+<SubTexture name="girl dance right0000" x="0" y="0" width="743" height="670" frameX="0" frameY="0" frameWidth="743" frameHeight="670" />
+<SubTexture name="girl dance right0001" x="743" y="670" width="743" height="645" frameX="0" frameY="0" frameWidth="743" frameHeight="645" />
+<SubTexture name="girl dance right0002" x="1486" y="0" width="743" height="628" frameX="0" frameY="0" frameWidth="743" frameHeight="628" />
+<SubTexture name="girl dance right0003" x="0" y="1330" width="743" height="592" frameX="0" frameY="0" frameWidth="743" frameHeight="592" />
+<SubTexture name="girl dance right0004" x="1486" y="0" width="743" height="628" frameX="0" frameY="0" frameWidth="743" frameHeight="628" />
+<SubTexture name="girl dance right0005" x="743" y="670" width="743" height="645" frameX="0" frameY="0" frameWidth="743" frameHeight="645" />
+</TextureAtlas>

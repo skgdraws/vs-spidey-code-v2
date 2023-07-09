@@ -1,6 +1,7 @@
 {
 	"dialogue": [
 		{
+			"sound": "dialogue-gf",
 			"speed": 0.05,
 			"portrait": "gf",
 			"boxState": "normal",
@@ -8,6 +9,7 @@
 			"text": "uh hey"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -15,6 +17,7 @@
 			"text": "i just want to say, before this mod starts"
 		},
 		{
+			"sound": "dialogue-gf",
 			"speed": 0.05,
 			"portrait": "gf",
 			"boxState": "normal",
@@ -22,6 +25,7 @@
 			"text": "thanks to everyone who helped get this mod recognized!"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -29,6 +33,7 @@
 			"text": "we worked EXTRA hard on this, we put our fuckin souls into it. "
 		},
 		{
+			"sound": "dialogue-gf",
 			"speed": 0.05,
 			"portrait": "gf",
 			"boxState": "normal",
@@ -36,13 +41,15 @@
 			"text": "and to see it finally pay off is satisfying to say the least"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "without futher ado, enjoy the Vs Spider-Man:\\nNo Way Home Update!!"
+			"text": "without futher ado, enjoy the Vs Spider-Man: No Way Home Update!!"
 		},
 		{
+			"sound": "dialogue-gf",
 			"speed": 0.05,
 			"portrait": "gf",
 			"boxState": "normal",
@@ -50,6 +57,7 @@
 			"text": "also Marvel and Disney, please don't sue us. We aren't making any profit from this"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -57,6 +65,7 @@
 			"text": "Most of all, Thank you Stan Lee and Marvel, for giving us such amazing hero's and villains"
 		},
 		{
+			"sound": "dialogue-gf",
 			"speed": 0.05,
 			"portrait": "gf",
 			"boxState": "normal",
@@ -64,6 +73,7 @@
 			"text": "this mod wouldn't have been made without them!"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -71,6 +81,7 @@
 			"text": "Rest in peace the legend, Stan Lee. "
 		},
 		{
+			"sound": "dialogue-gf",
 			"speed": 0.05,
 			"portrait": "gf",
 			"boxState": "normal",

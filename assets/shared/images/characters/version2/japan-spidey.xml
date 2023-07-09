@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="japan-spidey.png">
+<SubTexture name="japan-spidey Idle Dance0000" x="3180" y="0" width="608" height="832" frameX="-74" frameY="-79" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Idle Dance0001" x="4240" y="0" width="612" height="823" frameX="-71" frameY="-88" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Idle Dance0002" x="0" y="3455" width="616" height="816" frameX="-70" frameY="-96" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Idle Dance0003" x="4240" y="823" width="612" height="823" frameX="-75" frameY="-88" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Idle Dance0004" x="3180" y="832" width="608" height="831" frameX="-77" frameY="-80" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Idle Dance0005" x="3180" y="1663" width="608" height="831" frameX="-74" frameY="-80" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Idle Dance0006" x="0" y="2624" width="608" height="831" frameX="-73" frameY="-80" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Idle Dance0007" x="608" y="2624" width="609" height="831" frameX="-73" frameY="-80" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Idle Dance0008" x="3180" y="1663" width="608" height="831" frameX="-74" frameY="-80" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Idle Dance0009" x="3180" y="1663" width="608" height="831" frameX="-74" frameY="-80" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Idle Dance0010" x="3180" y="1663" width="608" height="831" frameX="-74" frameY="-80" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Idle Dance0011" x="3180" y="1663" width="608" height="831" frameX="-74" frameY="-80" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Idle Dance0012" x="3180" y="1663" width="608" height="831" frameX="-74" frameY="-80" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Idle Dance0013" x="3180" y="1663" width="608" height="831" frameX="-74" frameY="-80" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note LEFT0000" x="4852" y="0" width="725" height="780" frameX="-43" frameY="-124" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note LEFT0001" x="2783" y="3455" width="729" height="784" frameX="-38" frameY="-120" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note LEFT0002" x="1336" y="3455" width="730" height="794" frameX="-36" frameY="-110" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note LEFT0003" x="616" y="3455" width="720" height="799" frameX="-47" frameY="-105" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note LEFT0004" x="2066" y="3455" width="717" height="793" frameX="-51" frameY="-111" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note LEFT0005" x="3512" y="3455" width="724" height="781" frameX="-44" frameY="-123" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note LEFT0006" x="726" y="4271" width="727" height="775" frameX="-41" frameY="-129" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note LEFT0007" x="0" y="4271" width="726" height="777" frameX="-42" frameY="-127" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note LEFT0008" x="4852" y="780" width="725" height="779" frameX="-43" frameY="-125" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note LEFT0009" x="4852" y="780" width="725" height="779" frameX="-43" frameY="-125" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note LEFT0010" x="4852" y="780" width="725" height="779" frameX="-43" frameY="-125" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note LEFT0011" x="4852" y="780" width="725" height="779" frameX="-43" frameY="-125" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note LEFT0012" x="4852" y="780" width="725" height="779" frameX="-43" frameY="-125" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note LEFT0013" x="4852" y="780" width="725" height="779" frameX="-43" frameY="-125" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note DOWN0000" x="0" y="1781" width="575" height="843" frameX="-125" frameY="-80" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note DOWN0001" x="1217" y="2624" width="585" height="830" frameX="-122" frameY="-93" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note DOWN0002" x="4240" y="2467" width="599" height="816" frameX="-119" frameY="-107" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note DOWN0003" x="4240" y="1646" width="599" height="821" frameX="-122" frameY="-102" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note DOWN0004" x="2171" y="1781" width="583" height="837" frameX="-125" frameY="-86" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note DOWN0005" x="2609" y="0" width="571" height="844" frameX="-125" frameY="-79" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note DOWN0006" x="575" y="1781" width="573" height="843" frameX="-125" frameY="-80" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note DOWN0007" x="1148" y="1781" width="575" height="842" frameX="-125" frameY="-81" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note DOWN0008" x="1148" y="1781" width="575" height="842" frameX="-125" frameY="-81" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note DOWN0009" x="1148" y="1781" width="575" height="842" frameX="-125" frameY="-81" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note DOWN0010" x="1148" y="1781" width="575" height="842" frameX="-125" frameY="-81" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note DOWN0011" x="1148" y="1781" width="575" height="842" frameX="-125" frameY="-81" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note DOWN0012" x="1148" y="1781" width="575" height="842" frameX="-125" frameY="-81" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note DOWN0013" x="1148" y="1781" width="575" height="842" frameX="-125" frameY="-81" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note UP0000" x="1802" y="2624" width="452" height="830" frameX="-261" frameY="-89" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note UP0001" x="2609" y="844" width="448" height="838" frameX="-263" frameY="-81" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note UP0002" x="2165" y="0" width="444" height="845" frameX="-264" frameY="-74" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note UP0003" x="1723" y="1781" width="448" height="838" frameX="-263" frameY="-81" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note UP0004" x="2254" y="2624" width="452" height="830" frameX="-261" frameY="-89" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note UP0005" x="2706" y="2624" width="452" height="830" frameX="-261" frameY="-89" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note UP0006" x="3158" y="2624" width="452" height="830" frameX="-261" frameY="-89" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note UP0007" x="3788" y="0" width="452" height="830" frameX="-261" frameY="-89" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note UP0008" x="3788" y="0" width="452" height="830" frameX="-261" frameY="-89" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note UP0009" x="3788" y="0" width="452" height="830" frameX="-261" frameY="-89" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note UP0010" x="3788" y="0" width="452" height="830" frameX="-261" frameY="-89" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note UP0011" x="3788" y="0" width="452" height="830" frameX="-261" frameY="-89" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note UP0012" x="3788" y="0" width="452" height="830" frameX="-261" frameY="-89" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note UP0013" x="3788" y="0" width="452" height="830" frameX="-261" frameY="-89" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note RIGHT0000" x="0" y="0" width="538" height="891" frameX="-189" frameY="-18" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note RIGHT0001" x="538" y="0" width="542" height="890" frameX="-192" frameY="-19" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note RIGHT0002" x="1080" y="0" width="546" height="890" frameX="-195" frameY="-19" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note RIGHT0003" x="1626" y="0" width="539" height="890" frameX="-195" frameY="-19" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note RIGHT0004" x="0" y="891" width="537" height="890" frameX="-190" frameY="-19" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note RIGHT0005" x="537" y="891" width="539" height="890" frameX="-188" frameY="-19" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note RIGHT0006" x="1076" y="891" width="539" height="890" frameX="-188" frameY="-19" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note RIGHT0007" x="1615" y="891" width="538" height="890" frameX="-189" frameY="-19" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note RIGHT0008" x="1615" y="891" width="538" height="890" frameX="-189" frameY="-19" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note RIGHT0009" x="1615" y="891" width="538" height="890" frameX="-189" frameY="-19" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note RIGHT0010" x="1615" y="891" width="538" height="890" frameX="-189" frameY="-19" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note RIGHT0011" x="1615" y="891" width="538" height="890" frameX="-189" frameY="-19" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note RIGHT0012" x="1615" y="891" width="538" height="890" frameX="-189" frameY="-19" frameWidth="850" frameHeight="900" />
+<SubTexture name="japan-spidey Sing Note RIGHT0013" x="1615" y="891" width="538" height="890" frameX="-189" frameY="-19" frameWidth="850" frameHeight="900" />
+</TextureAtlas>

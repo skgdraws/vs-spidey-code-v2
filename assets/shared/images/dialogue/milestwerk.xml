@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="milestwerk.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angyDL0000" x="0" y="0" width="2048" height="2048"/>
+	<SubTexture name="confusedDL0000" x="2048" y="0" width="2048" height="2048"/>
+	<SubTexture name="idleDL0000" x="0" y="2048" width="2048" height="2048"/>
+	<SubTexture name="pointDL0000" x="2048" y="2048" width="2048" height="2048"/>
+</TextureAtlas>

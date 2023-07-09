@@ -57,10 +57,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/spidey-magic",
+	"image": "characters/version2/spidey-magic",
 	"position": [
 		0,
-		0
+		-30
 	],
 	"healthicon": "spidey",
 	"flip_x": false,

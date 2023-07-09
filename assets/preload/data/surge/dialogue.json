@@ -1,88 +1,108 @@
 {
 	"dialogue": [
 		{
+			"sound": "dialogue-electro",
 			"speed": 0.05,
 			"portrait": "electro",
 			"boxState": "normal",
 			"expression": "angry",
-			"text": "Okay, lets talk about the elephant in the room. "
+			"text": "Alright, Let's talk about the elephant in the room!"
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey-magic",
 			"boxState": "normal",
 			"expression": "confused",
-			"text": "eh?"
+			"text": "Huh? What do you mean?"
 		},
 		{
+			"sound": "dialogue-electro",
 			"speed": 0.05,
 			"portrait": "electro",
-			"boxState": "normal",
-			"expression": "confused",
-			"text": "Who the fuck is the redhead girl in the red dress. "
-		},
-		{
-			"speed": 0.05,
-			"portrait": "spidey-magic",
-			"boxState": "normal",
-			"expression": "confused",
-			"text": "She is this kid's girlfriend. She is like emotional support I think!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "confused",
-			"text": "i-..."
-		},
-		{
-			"speed": 0.05,
-			"portrait": "electro",
-			"boxState": "normal",
-			"expression": "angry",
-			"text": "She is lowkey kinda useless."
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
 			"boxState": "angry",
-			"expression": "talk",
-			"text": "BEEP!!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "electro",
-			"boxState": "normal",
 			"expression": "angry",
-			"text": "No need to get pissed! I'm pointing out the obvious!"
+			"text": "That girl is fucking useless. She just bothers me how much she just sits there and does NOTHING."
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey-magic",
 			"boxState": "normal",
 			"expression": "regret",
-			"text": "things seem to be getting pretty heated, im just gonna send you to strange."
+			"text": "Dude! Chill she is just emotional support for this kid!"
 		},
 		{
+			"sound": "dialogue-gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "ARE YOU KIDDING SPIDEY!??"
+		},
+		{
+			"sound": "dialogue-electro",
 			"speed": 0.05,
 			"portrait": "electro",
-			"boxState": "normal",
+			"boxState": "angry",
 			"expression": "talk",
-			"text": "No! YOU AINT EVEN THE SHIT SPIDER-MAN!"
+			"text": "Are you joking?! Ain't no way she is emotional support. She's too dumb to even be that!"
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey-magic",
 			"boxState": "normal",
-			"expression": "angry",
-			"text": "LETS BATTLE THEN"
+			"expression": "regret",
+			"text": "Things seem to be getting heated..."
 		},
 		{
+			"sound": "dialogue-gf",
 			"speed": 0.05,
 			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "NO SHIT SPIDEY!! HE JUST CALLED ME USELESS. YKNOW WHAT.."
+		},
+		{
+			"sound": "dialogue-gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I'M GONNA SHOW HIM USELESS. IF YOU GUYS WANNA BACK ME UP GO AHEAD."
+		},
+		{
+			"sound": "dialogue-gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "BUT I AM NOT GONNA SIT HERE AND BE DISRESPECTED BY SOME GUY WITH\\nSPARKLES FOR A POWER!!!\\n"
+		},
+		{
+			"sound": "dialogue-spidey",
+			"speed": 0.05,
+			"portrait": "spidey-magic",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "Oh damn, she went for the weak spot. The sparkle name."
+		},
+		{
+			"sound": "dialogue-electro",
+			"speed": 0.05,
+			"portrait": "electro",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Bring it the fuck on."
+		},
+		{
+			"sound": "dialogue-bf",
+			"speed": 0.05,
+			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "confused",
-			"text": "......"
+			"text": "HEY! That's my line!!"
 		}
 	]
 }

@@ -1,76 +1,76 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "japan-spidey Idle Dance"
-		},
-		{
-			"offsets": [
-				30,
-				-30
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "japan-spidey Sing Note LEFT"
+			"name": "japan-spidey Idle Dance",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-120,
-				-20
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "japan-spidey Sing Note DOWN"
-		},
-		{
 			"offsets": [
-				-10,
+				80,
 				0
 			],
-			"loop": false,
+			"anim": "singLEFT",
 			"fps": 24,
+			"name": "japan-spidey Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "japan-spidey Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				10
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "japan-spidey Sing Note UP"
+			"fps": 24,
+			"name": "japan-spidey Sing Note UP",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-41,
-				-20
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				0,
+				0
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "japan-spidey Sing Note RIGHT"
+			"fps": 24,
+			"name": "japan-spidey Sing Note RIGHT",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-41,
-				-20
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				0,
+				0
+			],
 			"anim": "gunshot",
-			"indices": [],
-			"name": "japan-spidey gun."
+			"fps": 24,
+			"name": "japan-spidey gun.",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/japan-spidey",
+	"image": "characters/version2/japan-spidey",
 	"position": [
-		-200,
+		-150,
 		-140
 	],
 	"healthicon": "japan-spidey",

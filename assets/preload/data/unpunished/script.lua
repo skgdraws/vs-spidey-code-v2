@@ -18,7 +18,7 @@ function onCreate()
     addAnimationByPrefix('spidey', 'idle', 'ded-spidey idle', 24, false);
     addAnimationByPrefix('spidey', 'fuck u', 'ded-spidey fuck u', 24, false);
 
-    objectPlayAnimation('spidey', 'idle'); 
+    objectPlayAnimation('spidey', 'idle', true); 
 	addLuaSprite('spidey', true);
 end
 
@@ -27,14 +27,14 @@ isFlipOff = false
 function onBeatHit()
 	-- triggered 4 times per section
 	if curBeat % 2 == 0 and not isFlipOff then
-		objectPlayAnimation('spidey', 'idle');
+		objectPlayAnimation('spidey', 'idle', true);
 	end
 
-    if curBeat == 226 then
+    if curBeat == 269 then
         isFlipOff = true
         objectPlayAnimation("spidey", 'fuck u')
 
-    elseif curBeat == 230 then
+    elseif curBeat == 275 then
         isFlipOff = false
         
     end

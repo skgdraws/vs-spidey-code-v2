@@ -3266,18 +3266,6 @@
 		"song": "No Way Home",
 		"validScore": true,
 		"speed": 2.3,
-		"events": [
-			[
-				20571.4285714286,
-				[
-					[
-						"Play Animation",
-						"LetsRock",
-						"spiderman"
-					]
-				]
-			]
-		],
 		"gfVersion": "gf",
 		"chartVersion": "KE1",
 		"eventObjects": [

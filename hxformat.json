@@ -1,4 +1,6 @@
 {
+	"disableFormatting": true,
+
 	"lineEnds": {
 		"leftCurly": "both",
 		"rightCurly": "both",

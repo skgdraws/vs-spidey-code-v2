@@ -1,0 +1,7 @@
+ok please when compiling this thing take this into account
+
+- Flixel has to be 5.1.0
+- Flixel-addons has to be 3.0.2
+- hxCpp has to be 4.2.1
+
+this is because if not this mod will break when compiling, *sorry*...

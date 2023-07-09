@@ -1,6 +1,7 @@
 {
 	"dialogue": [
 		{
+			"sound": "dialogue-electro",
 			"speed": 0.05,
 			"portrait": "Electro",
 			"boxState": "normal",
@@ -8,6 +9,7 @@
 			"text": "I like this.. this power.."
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "Spidey-magic",
 			"boxState": "normal",
@@ -15,6 +17,7 @@
 			"text": "uhh hi Mr sparkle guy?"
 		},
 		{
+			"sound": "dialogue-electro",
 			"speed": 0.05,
 			"portrait": "electro",
 			"boxState": "normal",
@@ -22,6 +25,7 @@
 			"text": "huh..? Peter?"
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey-magic",
 			"boxState": "normal",
@@ -29,6 +33,7 @@
 			"text": "I have no clue who you are.. uhm there is no easy way to say this but you aren't from this universe."
 		},
 		{
+			"sound": "dialogue-electro",
 			"speed": 0.05,
 			"portrait": "electro",
 			"boxState": "normal",
@@ -36,6 +41,7 @@
 			"text": "I can tell.."
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -43,6 +49,7 @@
 			"text": "beep."
 		},
 		{
+			"sound": "dialogue-electro",
 			"speed": 0.05,
 			"portrait": "electro",
 			"boxState": "normal",
@@ -50,6 +57,7 @@
 			"text": "and you brought this puny little boy with you... or girl?"
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "Spidey-magic",
 			"boxState": "normal",
@@ -57,6 +65,7 @@
 			"text": "boy, actually. May not sound like it but that doesn't make him any less of one."
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey-magic",
 			"boxState": "normal",
@@ -64,6 +73,7 @@
 			"text": "by the way, your transition's going great little buddy"
 		},
 		{
+			"sound": "dialogue-electro",
 			"speed": 0.05,
 			"portrait": "electro",
 			"boxState": "normal",

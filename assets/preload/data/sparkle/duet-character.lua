@@ -1,6 +1,6 @@
 --configs
 
-local character = 'characters/spidey-magic-mirror-elec' --put the name of the character's spritesheet here
+local character = 'characters/version2/spidey-magic' --put the name of the character's spritesheet here
 --add mods/images behind characters if you are gonna use characters in the mods folder instead
 
 --the offsets
@@ -10,29 +10,29 @@ local posY = 300
 local xidleoffs = 0 --X
 local yidleoffs = 10 --Y
 
-local xleftoffs = -30 --X
+local xleftoffs = -51 --X
 local yleftoffs = 10 --Y
 
-local xdownoffs = -1 --X
+local xdownoffs = -21 --X
 local ydownoffs = 10 --Y
 
 local xupoffs = -6 --X
 local yupoffs = 10 --Y
 
-local xrightoffs = -1 --X
+local xrightoffs = 10 --X
 local yrightoffs = 10 --Y
 
 --the poses in the xml
 
-local idle = 'spidey-magic-mirror-elec Idle Dance' --idle
+local idle = 'spidey-magic Idle Dance' --idle
 
-local left = 'spidey-magic-mirror-elec Sing Note LEFT' --left
+local left = 'spidey-magic Sing Note RIGHT' --left
 
-local down = 'spidey-magic-mirror-elec Sing Note DOWN' --down
+local down = 'spidey-magic Sing Note DOWN' --down
 
-local up = 'spidey-magic-mirror-elec Sing Note UP' --up
+local up = 'spidey-magic Sing Note UP' --up
 
-local right = 'spidey-magic-mirror-elec Sing Note RIGHT' --right
+local right = 'spidey-magic Sing Note LEFT' --right
 
 --miss poses (optional)
 
@@ -56,6 +56,7 @@ local fps = 24 --24 is the default fps
 local idling = true
 function onCreatePost()
     makeAnimatedLuaSprite('player3', character, 0, 0)
+    setProperty('player3.flipX', true)
     setProperty('player3.x', getProperty('boyfriend.x') + posX + xidleoffs)
     setProperty('player3.y', getProperty('boyfriend.y') - posY + yidleoffs)
     addAnimationByPrefix('player3', 'idle', idle, fps, false)

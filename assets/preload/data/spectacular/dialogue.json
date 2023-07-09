@@ -1,6 +1,7 @@
 {
 	"dialogue": [
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey",
 			"boxState": "normal",
@@ -8,6 +9,7 @@
 			"text": "Hmmm, any crime today?"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -15,6 +17,7 @@
 			"text": "BEEP"
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey",
 			"boxState": "normal",
@@ -22,6 +25,7 @@
 			"text": "Whoa! What the hell? How did you get up here?!"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -29,6 +33,7 @@
 			"text": "Beep Bop "
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey",
 			"boxState": "normal",
@@ -36,6 +41,7 @@
 			"text": "Oh right, the ladder/."
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -43,6 +49,7 @@
 			"text": "Yep!"
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey",
 			"boxState": "normal",
@@ -50,6 +57,7 @@
 			"text": "Makes sense, anyways, what do you want kid?"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -57,6 +65,7 @@
 			"text": "skip bop!"
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey",
 			"boxState": "normal",

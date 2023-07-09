@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="electro.png">
+<SubTexture name="electro Idle Dance0000" x="356" y="1349" width="361" height="656" frameX="-121" frameY="-80" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Idle Dance0001" x="2534" y="2006" width="361" height="647" frameX="-121" frameY="-89" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Idle Dance0002" x="2947" y="646" width="398" height="644" frameX="-106" frameY="-93" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Idle Dance0003" x="472" y="2006" width="398" height="648" frameX="-106" frameY="-88" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Idle Dance0004" x="870" y="2006" width="361" height="648" frameX="-121" frameY="-88" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Idle Dance0005" x="1231" y="2006" width="361" height="648" frameX="-121" frameY="-88" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Idle Dance0006" x="1390" y="1349" width="318" height="653" frameX="-144" frameY="-83" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Idle Dance0007" x="1072" y="1349" width="318" height="654" frameX="-144" frameY="-82" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Idle Dance0008" x="1420" y="0" width="267" height="659" frameX="-179" frameY="-77" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Idle Dance0009" x="1420" y="0" width="267" height="659" frameX="-179" frameY="-77" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Idle Dance0010" x="2017" y="653" width="273" height="652" frameX="-175" frameY="-84" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Idle Dance0011" x="2017" y="653" width="273" height="652" frameX="-175" frameY="-84" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Idle Dance0012" x="1687" y="659" width="268" height="657" frameX="-175" frameY="-79" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Idle Dance0013" x="1687" y="659" width="268" height="657" frameX="-175" frameY="-79" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note LEFT0000" x="928" y="2656" width="499" height="618" frameX="-53" frameY="-92" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note LEFT0001" x="2799" y="2656" width="499" height="615" frameX="-53" frameY="-94" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note LEFT0002" x="2284" y="2656" width="515" height="616" frameX="-44" frameY="-91" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note LEFT0003" x="3839" y="0" width="515" height="611" frameX="-44" frameY="-93" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note LEFT0004" x="3839" y="1824" width="447" height="602" frameX="-64" frameY="-101" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note LEFT0005" x="3839" y="611" width="448" height="609" frameX="-63" frameY="-98" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note LEFT0006" x="1427" y="2656" width="428" height="617" frameX="-63" frameY="-93" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note LEFT0007" x="1855" y="2656" width="429" height="617" frameX="-62" frameY="-93" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note LEFT0008" x="2947" y="1290" width="429" height="621" frameX="-62" frameY="-89" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note LEFT0009" x="2947" y="1290" width="429" height="621" frameX="-62" frameY="-89" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note LEFT0010" x="3410" y="0" width="429" height="614" frameX="-62" frameY="-96" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note LEFT0011" x="3410" y="0" width="429" height="614" frameX="-62" frameY="-96" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note LEFT0012" x="2947" y="1911" width="429" height="619" frameX="-62" frameY="-91" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note LEFT0013" x="2947" y="1911" width="429" height="619" frameX="-62" frameY="-91" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note DOWN0000" x="0" y="3300" width="501" height="600" frameX="-33" frameY="-96" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note DOWN0001" x="2809" y="3300" width="506" height="592" frameX="-30" frameY="-104" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note DOWN0002" x="3793" y="3300" width="491" height="591" frameX="-15" frameY="-106" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note DOWN0003" x="1399" y="3300" width="487" height="595" frameX="-17" frameY="-101" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note DOWN0004" x="3315" y="3300" width="478" height="592" frameX="-24" frameY="-104" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note DOWN0005" x="2331" y="3300" width="478" height="594" frameX="-24" frameY="-102" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note DOWN0006" x="501" y="3300" width="453" height="599" frameX="-49" frameY="-97" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note DOWN0007" x="954" y="3300" width="445" height="599" frameX="-57" frameY="-97" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note DOWN0008" x="3839" y="1220" width="445" height="604" frameX="-57" frameY="-92" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note DOWN0009" x="3839" y="1220" width="445" height="604" frameX="-57" frameY="-92" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note DOWN0010" x="1886" y="3300" width="445" height="595" frameX="-57" frameY="-101" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note DOWN0011" x="1886" y="3300" width="445" height="595" frameX="-57" frameY="-101" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note DOWN0012" x="3839" y="2426" width="445" height="602" frameX="-57" frameY="-94" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note DOWN0013" x="3839" y="2426" width="445" height="602" frameX="-57" frameY="-94" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note UP0000" x="660" y="681" width="381" height="664" frameX="-98" frameY="-73" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note UP0001" x="713" y="0" width="377" height="671" frameX="-100" frameY="-66" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note UP0002" x="0" y="0" width="355" height="681" frameX="-108" frameY="-54" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note UP0003" x="355" y="0" width="358" height="674" frameX="-106" frameY="-61" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note UP0004" x="717" y="1349" width="355" height="655" frameX="-107" frameY="-79" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note UP0005" x="0" y="1349" width="356" height="657" frameX="-107" frameY="-79" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note UP0006" x="1041" y="681" width="328" height="664" frameX="-136" frameY="-73" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note UP0007" x="330" y="681" width="330" height="665" frameX="-135" frameY="-73" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note UP0008" x="1090" y="0" width="330" height="669" frameX="-135" frameY="-69" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note UP0009" x="1090" y="0" width="330" height="669" frameX="-135" frameY="-69" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note UP0010" x="1687" y="0" width="330" height="659" frameX="-135" frameY="-79" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note UP0011" x="1687" y="0" width="330" height="659" frameX="-135" frameY="-79" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note UP0012" x="0" y="681" width="330" height="668" frameX="-135" frameY="-70" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note UP0013" x="0" y="681" width="330" height="668" frameX="-135" frameY="-70" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note RIGHT0000" x="2480" y="0" width="467" height="650" frameX="-100" frameY="-80" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note RIGHT0001" x="1592" y="2006" width="473" height="648" frameX="-100" frameY="-82" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note RIGHT0002" x="0" y="2006" width="472" height="650" frameX="-106" frameY="-80" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note RIGHT0003" x="2065" y="2006" width="469" height="648" frameX="-103" frameY="-82" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note RIGHT0004" x="464" y="2656" width="464" height="641" frameX="-101" frameY="-89" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note RIGHT0005" x="0" y="2656" width="464" height="644" frameX="-101" frameY="-86" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note RIGHT0006" x="2480" y="650" width="464" height="649" frameX="-103" frameY="-81" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note RIGHT0007" x="2480" y="1299" width="463" height="649" frameX="-105" frameY="-81" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note RIGHT0008" x="2017" y="0" width="463" height="653" frameX="-105" frameY="-77" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note RIGHT0009" x="2017" y="0" width="463" height="653" frameX="-105" frameY="-77" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note RIGHT0010" x="2947" y="0" width="463" height="646" frameX="-105" frameY="-84" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note RIGHT0011" x="2947" y="0" width="463" height="646" frameX="-105" frameY="-84" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note RIGHT0012" x="2017" y="1305" width="463" height="651" frameX="-105" frameY="-79" frameWidth="585" frameHeight="760" />
+<SubTexture name="electro Sing Note RIGHT0013" x="2017" y="1305" width="463" height="651" frameX="-105" frameY="-79" frameWidth="585" frameHeight="760" />
+</TextureAtlas>

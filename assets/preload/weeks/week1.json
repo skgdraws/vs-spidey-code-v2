@@ -1,22 +1,44 @@
 {
-	"songs": [
-		["Spectacular", "spidey", [176, 46, 47]],
-		["They Know", "spidey", [176, 46, 47]],
-		["No Way Home", "spidey", [176, 46, 47]]
-	],
-
+	"storyName": "Friendly Neighborhood Hero",
+	"hideFreeplay": false,
+	"weekBackground": "spidey",
+	"weekBefore": "tutorial",
+	"startUnlocked": false,
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"weekBackground": "spidey",
-
-	"storyName": "Spiderman",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": false,
-
+	"songs": [
+		[
+			"Spectacular",
+			"spidey",
+			[
+				176, 
+				46, 
+				47
+			]
+		],
+		[
+			"They Know",
+			"spidey",
+			[
+				176, 
+				46, 
+				47
+			]
+		],
+		[
+			"No Way Home",
+			"spidey",
+			[
+				176, 
+				46, 
+				47
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hiddenUntilUnlocked": true,
+	"weekName": "Week 1"
 }

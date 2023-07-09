@@ -1,6 +1,7 @@
 {
 	"dialogue": [
 		{
+			"sound": "dialogue-",
 			"speed": 0.05,
 			"portrait": "gf",
 			"boxState": "normal",
@@ -8,6 +9,7 @@
 			"text": "*A twip noise can be heard from near*"
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "Spidey-hybrid",
 			"boxState": "normal",
@@ -15,6 +17,7 @@
 			"text": "Stop it right there Norman! I'm not gonna let you hurt anymore people!"
 		},
 		{
+			"sound": "dialogue-goobler",
 			"speed": 0.05,
 			"portrait": "green-goblin",
 			"boxState": "normal",
@@ -22,6 +25,7 @@
 			"text": "well if it isn't Spider-Man.. such a shame she had to die so soon!"
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey-hybrid",
 			"boxState": "normal",
@@ -29,13 +33,15 @@
 			"text": "Shut up! I'm gonna kill you! You son of a bitch!"
 		},
 		{
+			"sound": "dialogue-goobler",
 			"speed": 0.05,
 			"portrait": "green-goblin",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "or how about this.. you rap battle me, and if you win. I'll accept defeat and be \\ntransported with the others."
+			"text": "or how about this.. you rap battle me, and if you win. I'll accept defeat and be transported with the others."
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey-hybrid",
 			"boxState": "normal",

@@ -1,6 +1,7 @@
 {
 	"dialogue": [
 		{
+			"sound": "dialogue-",
 			"speed": 0.05,
 			"portrait": "gf",
 			"boxState": "normal",
@@ -8,6 +9,7 @@
 			"text": "*Doc ock is tangled up inside of his tentacles and trapped so he can't move*"
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "Spidey-hybrid",
 			"boxState": "normal",
@@ -15,6 +17,7 @@
 			"text": "Kid, what the hell are you doing here?! You could have gotten yourself killed!"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -22,6 +25,7 @@
 			"text": "beep bop..."
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey-hybrid",
 			"boxState": "normal",
@@ -29,6 +33,7 @@
 			"text": "YOU FOUGHT WHO NOW?!!!"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -36,6 +41,7 @@
 			"text": "bee bop bo bee bop"
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey-hybrid",
 			"boxState": "normal",
@@ -43,6 +49,7 @@
 			"text": "wait... were you the one who killed Mysterio."
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey-hybrid",
 			"boxState": "normal",
@@ -50,6 +57,7 @@
 			"text": "Actually.. nevermind that, it doesn't matter anymore."
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey-hybrid",
 			"boxState": "normal",
@@ -57,6 +65,7 @@
 			"text": "We got more villains to beat kid, I'll help you on the next one just... look out for a flying green elf. "
 		},
 		{
+			"sound": "dialogue-spidey",
 			"speed": 0.05,
 			"portrait": "spidey-hybrid",
 			"boxState": "normal",

@@ -1,13 +1,15 @@
 {
 	"dialogue": [
 		{
+			"sound": "dialogue-doc-ock",
 			"speed": 0.05,
 			"portrait": "doc-ock",
 			"boxState": "normal",
 			"expression": "angry",
-			"text": "Ok, the battles done. Tell me where my \\nmachine is. "
+			"text": "Ok, the battles done. Tell me where my machine is. "
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -15,6 +17,7 @@
 			"text": "beep bop boa skip doo"
 		},
 		{
+			"sound": "dialogue-doc-ock",
 			"speed": 0.05,
 			"portrait": "doc-ock",
 			"boxState": "normal",
@@ -22,6 +25,7 @@
 			"text": "What do you mean with one more song?!"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -29,6 +33,7 @@
 			"text": "bop!"
 		},
 		{
+			"sound": "dialogue-doc-ock",
 			"speed": 0.05,
 			"portrait": "doc-ock",
 			"boxState": "normal",
@@ -36,6 +41,7 @@
 			"text": "YOU ARE WASTING MY TIME!"
 		},
 		{
+			"sound": "dialogue-doc-ock",
 			"speed": 0.05,
 			"portrait": "doc-ock",
 			"boxState": "normal",

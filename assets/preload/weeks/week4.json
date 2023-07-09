@@ -1,16 +1,10 @@
 {
-	"storyName": "Doctor Otto Octavious",
+	"storyName": "Brilliant yet Insane Doctor",
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "docock",
 	"weekBefore": "week3",
 	"startUnlocked": false,
-	"hideStoryMode": false,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
 	"songs": [
 		[
 			"Tentacles",
@@ -40,5 +34,12 @@
 			]
 		]
 	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
 	"weekName": "Week 6"
 }

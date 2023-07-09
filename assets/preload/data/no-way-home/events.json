@@ -1,10 +1,5 @@
 {
 	"song": {
-		"speed": 2.6,
-		"stage": "rooftop",
-		"player1": "bf",
-		"player2": "spiderman",
-		"player3": null,
 		"events": [
 			[
 				16285.7142857143,
@@ -28,6 +23,21 @@
 						"Set Cam Zoom",
 						"1.2",
 						""
+					],
+					[
+						"Lyrics",
+						"Catch up with",
+						""
+					]
+				]
+			],
+			[
+				21600,
+				[
+					[
+						"Lyrics",
+						"THIS!",
+						"FF3333"
 					]
 				]
 			],
@@ -42,6 +52,41 @@
 				]
 			],
 			[
+				21942.8571428571,
+				[
+					[
+						"Lyrics",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23314.2857142857,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						""
+					]
+				]
+			],
+			[
 				32914.2857142857,
 				[
 					[
@@ -51,14 +96,6 @@
 					]
 				]
 			]
-		],
-		"notes": [],
-		"splashSkin": null,
-		"validScore": false,
-		"gfVersion": "gf",
-		"bpm": 175,
-		"arrowSkin": null,
-		"needsVoices": true,
-		"song": "No Way Home"
+		]
 	}
 }

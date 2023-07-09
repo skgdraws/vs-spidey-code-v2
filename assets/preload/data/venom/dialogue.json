@@ -1,6 +1,7 @@
 {
 	"dialogue": [
 		{
+			"sound": "dialogue-",
 			"speed": 0.05,
 			"portrait": "gf",
 			"boxState": "normal",
@@ -8,6 +9,7 @@
 			"text": "*the anti hero is transported into a new \\nuniverse, the cause is unknown to them.*"
 		},
 		{
+			"sound": "dialogue-venom",
 			"speed": 0.05,
 			"portrait": "venom",
 			"boxState": "normal",
@@ -15,6 +17,7 @@
 			"text": "What the hell is this place?! "
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -22,6 +25,7 @@
 			"text": "skip doo da!"
 		},
 		{
+			"sound": "dialogue-venom",
 			"speed": 0.05,
 			"portrait": "venom",
 			"boxState": "normal",
@@ -29,6 +33,7 @@
 			"text": "Who the hell are you?! "
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -36,6 +41,7 @@
 			"text": "skip doo "
 		},
 		{
+			"sound": "dialogue-venom",
 			"speed": 0.05,
 			"portrait": "venom",
 			"boxState": "normal",
@@ -43,6 +49,7 @@
 			"text": "Who the hell would name their son boyfriend?!"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -50,6 +57,7 @@
 			"text": "*shrug*"
 		},
 		{
+			"sound": "dialogue-venom",
 			"speed": 0.05,
 			"portrait": "Venom",
 			"boxState": "normal",
@@ -57,6 +65,7 @@
 			"text": "What do you want then, \"boyfriend."
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -64,6 +73,7 @@
 			"text": "bebebbebebebebbebebbebebebbebebbeeb"
 		},
 		{
+			"sound": "dialogue-venom",
 			"speed": 0.05,
 			"portrait": "venom",
 			"boxState": "normal",

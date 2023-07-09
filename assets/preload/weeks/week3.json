@@ -1,5 +1,5 @@
 {
-	"storyName": "Venom",
+	"storyName": "The Hungry Anti-Hero",
 	"hideFreeplay": false,
 	"weekBackground": "venom",
 	"weekBefore": "week2",
@@ -15,8 +15,8 @@
 			"venom",
 			[
 				30,
-				30,
-				30
+				33,
+				113
 			]
 		],
 		[
@@ -24,8 +24,8 @@
 			"venom",
 			[
 				30,
-				30,
-				30
+				33,
+				113
 			]
 		],
 		[
@@ -33,11 +33,12 @@
 			"venom",
 			[
 				30,
-				30,
-				30
+				33,
+				113
 			]
 		]
 	],
 	"hideStoryMode": false,
+	"hiddenUntilUnlocked": true,
 	"weekName": "Week 3"
 }

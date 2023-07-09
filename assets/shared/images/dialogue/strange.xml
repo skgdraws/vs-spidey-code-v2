@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="strange.png">
+    
+    <SubTexture name="strange talk0000" x="2546" y="0" width="572" height="676" frameX="-47" frameY="-64" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange talk loop0000" x="2546" y="0" width="572" height="676" frameX="-47" frameY="-64" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange talk loop0001" x="1875" y="682" width="566" height="679" frameX="-50" frameY="-61" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange talk loop0002" x="1266" y="691" width="561" height="682" frameX="-53" frameY="-58" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange talk loop0003" x="0" y="1376" width="566" height="679" frameX="-50" frameY="-61" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange talk loop0004" x="2546" y="676" width="572" height="676" frameX="-47" frameY="-64" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange talk loop0005" x="2546" y="676" width="572" height="676" frameX="-47" frameY="-64" frameWidth="700" frameHeight="700" />
+    
+    <SubTexture name="strange confused0000" x="0" y="691" width="633" height="685" frameX="-47" frameY="-55" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange confused loop0000" x="0" y="691" width="633" height="685" frameX="-47" frameY="-55" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange confused loop0001" x="621" y="0" width="627" height="688" frameX="-50" frameY="-52" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange confused loop0002" x="0" y="0" width="621" height="691" frameX="-53" frameY="-49" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange confused loop0003" x="1248" y="0" width="627" height="688" frameX="-50" frameY="-52" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange confused loop0004" x="633" y="691" width="633" height="685" frameX="-47" frameY="-55" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange confused loop0005" x="633" y="691" width="633" height="685" frameX="-47" frameY="-55" frameWidth="700" frameHeight="700" />
+    
+    <SubTexture name="strange anger0000" x="0" y="2055" width="684" height="676" frameX="-28" frameY="-64" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange anger loop0000" x="0" y="2055" width="684" height="676" frameX="-28" frameY="-64" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange anger loop0001" x="566" y="1376" width="678" height="679" frameX="-31" frameY="-61" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange anger loop0002" x="1875" y="0" width="671" height="682" frameX="-34" frameY="-58" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange anger loop0003" x="1244" y="1376" width="678" height="679" frameX="-31" frameY="-61" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange anger loop0004" x="684" y="2055" width="684" height="676" frameX="-28" frameY="-64" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange anger loop0005" x="684" y="2055" width="684" height="676" frameX="-28" frameY="-64" frameWidth="700" frameHeight="700" />
+    
+    <SubTexture name="strange dumbfounded0000" x="1934" y="2055" width="572" height="671" frameX="-47" frameY="-69" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange dumbfounded loop0000" x="1934" y="2055" width="572" height="671" frameX="-47" frameY="-69" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange dumbfounded loop0001" x="2546" y="1352" width="566" height="674" frameX="-50" frameY="-66" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange dumbfounded loop0002" x="1922" y="1376" width="561" height="677" frameX="-53" frameY="-63" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange dumbfounded loop0003" x="1368" y="2055" width="566" height="674" frameX="-50" frameY="-66" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange dumbfounded loop0004" x="2506" y="2055" width="572" height="671" frameX="-47" frameY="-69" frameWidth="700" frameHeight="700" />
+    <SubTexture name="strange dumbfounded loop0005" x="2506" y="2055" width="572" height="671" frameX="-47" frameY="-69" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

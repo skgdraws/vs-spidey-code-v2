@@ -1,5 +1,5 @@
 --easy script configs
-IntroTextSize = 20	--Size of the text for the Now Playing thing.
+IntroTextSize = 15	--Size of the text for the Now Playing thing.
 IntroSubTextSize = 30 --size of the text for the Song Name.
 IntroAuthorTextSize = 20
 local IntroTagColor = 'e61717'	--Color of the tag at the end of the box.
@@ -11,10 +11,9 @@ function onCreatePost()
 	
 	IntroTagColor = 'e61717'	-- Default color of the tag at the end of the box.
 
-	if getPropertyFromClass('SONG.player2') == 'spiderman' then
+	if getPropertyFromClass('PlayState', 'SONG.player2') == 'spiderman' then
 		-- the colour of the tag
 		IntroTagColor = '862320';
-
 	end
 	if getPropertyFromClass('PlayState', 'SONG.player2') == 'mysterio' then
 		-- the colour of the tag
@@ -38,34 +37,29 @@ function onCreatePost()
 	end
 
 	--the tag at the end of the box
-	makeLuaSprite('JukeBoxTag', 'empty', -300-IntroTagWidth, 15)
-	makeGraphic('JukeBoxTag', 300+IntroTagWidth, 150, IntroTagColor)
+	makeLuaSprite('JukeBoxTag', '', -300-IntroTagWidth, 500 + 15)
+	makeGraphic('JukeBoxTag', 290+IntroTagWidth, 140, IntroTagColor)
 	setObjectCamera('JukeBoxTag', 'other')
 	addLuaSprite('JukeBoxTag', true)
 
 	--the box
-	makeLuaSprite('JukeBox', 'empty', -320-IntroTagWidth, 15)
-	makeGraphic('JukeBox', 320, 150, '000000')
+	makeLuaSprite('JukeBox', '', -310-IntroTagWidth, 500 + 15)
+	makeGraphic('JukeBox', 310, 140, '000000')
 	setObjectCamera('JukeBox', 'other')
 	addLuaSprite('JukeBox', true)
 	
-	--the text for the "Now Playing" bit
-	makeLuaText('JukeBoxText', 'Now Playing:', 350, -305-IntroTagWidth, 30)
-	setTextAlignment('JukeBoxText', 'left')
-	setObjectCamera('JukeBoxText', 'other')
-	setTextSize('JukeBoxText', IntroTextSize)
-	addLuaText('JukeBoxText')
-	
 	--text for the song name
-	makeLuaText('JukeBoxSubText', songName, 350, -305-IntroTagWidth, 60)
+	makeLuaText('JukeBoxSubText', songName, 300, -305-IntroTagWidth, 500 + 30)
 	setTextAlignment('JukeBoxSubText', 'left')
 	setObjectCamera('JukeBoxSubText', 'other')
+	setTextAlignment('JukeBoxSubText', 'center')
 	setTextSize('JukeBoxSubText', IntroSubTextSize)
 	addLuaText('JukeBoxSubText')
 
-	makeLuaText('JukeBoxAuthor', songName, 300, -305-IntroTagWidth, 100)
+	makeLuaText('JukeBoxAuthor', songName, 300, -305-IntroTagWidth, 500 + 100)
 	setTextAlignment('JukeBoxAuthor', 'left')
 	setObjectCamera('JukeBoxAuthor', 'other')
+	setTextAlignment('JukeBoxAuthor', 'center')
 	setTextSize('JukeBoxAuthor', IntroAuthorTextSize)
 	addLuaText('JukeBoxAuthor')
 end
@@ -82,7 +76,6 @@ function onEvent(n,v,b)
 		-- Inst and Vocals start playing, songPosition = 0
 		doTweenX('MoveInOne', 'JukeBoxTag', 0, 1, 'CircInOut')
 		doTweenX('MoveInTwo', 'JukeBox', 0, 1, 'CircInOut')
-		doTweenX('MoveInThree', 'JukeBoxText', 10, 1, 'CircInOut')
 		doTweenX('MoveInFour', 'JukeBoxSubText', 10, 1, 'CircInOut')
 		doTweenX('MoveInFive', 'JukeBoxAuthor', 10, 1, 'CircInOut')
 		
@@ -97,7 +90,6 @@ function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'JukeBoxWait' then
 		doTweenX('MoveOutOne', 'JukeBoxTag', -450, 1.5, 'CircInOut')
 		doTweenX('MoveOutTwo', 'JukeBox', -450, 1.5, 'CircInOut')
-		doTweenX('MoveOutThree', 'JukeBoxText', -450, 1.5, 'CircInOut')
 		doTweenX('MoveOutFour', 'JukeBoxSubText', -450, 1.5, 'CircInOut')
 		doTweenX('MoveOutFive', 'JukeBoxAuthor', -450, 1.5, 'CircInOut')
 	end

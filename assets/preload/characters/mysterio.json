@@ -1,63 +1,63 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				10
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "mysterio Idle Dance"
+			"fps": 24,
+			"name": "mysterio Idle Dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-16,
 				20
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "mysterio Sing Note UP"
+			"fps": 24,
+			"name": "mysterio Sing Note UP",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				120,
 				-30
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "mysterio Sing Note DOWN"
+			"fps": 24,
+			"name": "mysterio Sing Note DOWN",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				110,
 				10
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "mysterio Sing Note LEFT"
+			"fps": 24,
+			"name": "mysterio Sing Note LEFT",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-80,
 				10
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "mysterio Sing Note RIGHT"
+			"fps": 24,
+			"name": "mysterio Sing Note RIGHT",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/mysterio",
+	"image": "characters/version1/mysterio",
 	"position": [
 		0,
 		-40
@@ -65,9 +65,9 @@
 	"healthicon": "mysterio",
 	"flip_x": false,
 	"healthbar_colors": [
-		22,
-		130,
-		64
+		140,
+		70,
+		180
 	],
 	"camera_position": [
 		-90,

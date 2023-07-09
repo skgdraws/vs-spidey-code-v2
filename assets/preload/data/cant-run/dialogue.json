@@ -1,6 +1,7 @@
 {
 	"dialogue": [
 		{
+			"sound": "dialogue-venom",
 			"speed": 0.05,
 			"portrait": "venom",
 			"boxState": "normal",
@@ -8,6 +9,7 @@
 			"text": "AGHHHHHH DAMNIT. WE ARE STARVING YOU LITTLE RUNT."
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -15,6 +17,7 @@
 			"text": "eh beeba boo bop "
 		},
 		{
+			"sound": "dialogue-venom",
 			"speed": 0.05,
 			"portrait": "venom",
 			"boxState": "normal",
@@ -22,6 +25,7 @@
 			"text": "WE DO NOT CARE IF THERE IS A BURGER PLACE DOWN THE ROAD"
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -29,6 +33,7 @@
 			"text": "ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh."
 		},
 		{
+			"sound": "dialogue-venom",
 			"speed": 0.05,
 			"portrait": "venom",
 			"boxState": "normal",
@@ -36,6 +41,7 @@
 			"text": "We are going to rip out your pancreas, eat it, then bite your head off and let it float down the street."
 		},
 		{
+			"sound": "dialogue-venom",
 			"speed": 0.05,
 			"portrait": "venom",
 			"boxState": "normal",
@@ -43,6 +49,7 @@
 			"text": "like a turd, in the wind."
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
@@ -50,6 +57,7 @@
 			"text": "BEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"
 		},
 		{
+			"sound": "dialogue-",
 			"speed": 0.05,
 			"portrait": "gf",
 			"boxState": "normal",
@@ -57,6 +65,7 @@
 			"text": "*the symbiote was affected by such a high note of screaming*"
 		},
 		{
+			"sound": "dialogue-venom",
 			"speed": 0.05,
 			"portrait": "venom",
 			"boxState": "normal",
@@ -64,6 +73,7 @@
 			"text": "OW YOU RUNT. HOW DARE YOU HURT US.. WE ARE GONNA MAKE YOU REGRET THAT."
 		},
 		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",

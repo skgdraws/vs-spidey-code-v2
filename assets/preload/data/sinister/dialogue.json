@@ -1,0 +1,188 @@
+{
+	"dialogue": [
+		{
+			"expression": "regret",
+			"text": "What the hell?! What is this place?!",
+			"boxState": "normal",
+			"sound": "dialogue-spidey",
+			"speed": 0.05,
+			"portrait": "spidey-unmasked-classic"
+		},
+		{
+			"expression": "dumbfounded",
+			"text": "I hate that it has come to this, we are in what's called a liminal space.",
+			"boxState": "normal",
+			"sound": "dialogue-strange",
+			"speed": 0.05,
+			"portrait": "strange"
+		},
+		{
+			"expression": "dumbfounded",
+			"text": "We took too long to send them back, hence the reality pulling us in.",
+			"boxState": "normal",
+			"sound": "dialogue-strange",
+			"speed": 0.05,
+			"portrait": "strange"
+		},
+		{
+			"expression": "regret",
+			"text": "Well what do we do now!? Where are the kids!?",
+			"boxState": "normal",
+			"sound": "dialogue-spidey",
+			"speed": 0.05,
+			"portrait": "spidey-unmasked-classic"
+		},
+		{
+			"expression": "dumbfounded",
+			"text": "Thankfully I was able to close the tear that pulled us in, they are safe in the Sanctum Sanctorum.",
+			"boxState": "normal",
+			"sound": "dialogue-strange",
+			"speed": 0.05,
+			"portrait": "strange"
+		},
+		{
+			"expression": "talk",
+			"text": "Let's be careful, I don't think we are the only ones this tear pulled in.",
+			"boxState": "normal",
+			"sound": "dialogue-strange",
+			"speed": 0.05,
+			"portrait": "strange"
+		},
+		{
+			"expression": "talk",
+			"text": "*Spidey's senses went off, and Strange sensed a magical disturbance nearby*",
+			"boxState": "normal",
+			"sound": "dialogue-none",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "laugh",
+			"text": "MWAHAHAHAHAHAHAHAHA, Look who it is! The child and his father! Oh wait, You don't have one!!!",
+			"boxState": "normal",
+			"sound": "dialogue-goobler",
+			"speed": 0.05,
+			"portrait": "green-goblin"
+		},
+		{
+			"expression": "angry",
+			"text": "I'm no father, and I will kindly ask you to FUCK OFF. Peter, I need you to cooperate for once.",
+			"boxState": "angry",
+			"sound": "dialogue-strange",
+			"speed": 0.05,
+			"portrait": "strange"
+		},
+		{
+			"expression": "dumbfounded",
+			"text": "Distract these eccentric fellas while I try to fix YOUR mess.",
+			"boxState": "normal",
+			"sound": "dialogue-strange",
+			"speed": 0.05,
+			"portrait": "strange"
+		},
+		{
+			"expression": "regret",
+			"text": "Nuh uh, this isn't my mess. I ain't admitting nothing.",
+			"boxState": "normal",
+			"sound": "dialogue-spidey",
+			"speed": 0.05,
+			"portrait": "spidey-unmasked-classic"
+		},
+		{
+			"expression": "angry",
+			"text": "I am not in the mood for your tomfoolery right now. Peter, if someone dies during this their blood will be on your hands.",
+			"boxState": "angry",
+			"sound": "dialogue-strange",
+			"speed": 0.05,
+			"portrait": "strange"
+		},
+		{
+			"expression": "angry",
+			"text": "Alright then, I'll deal with this old man.",
+			"boxState": "normal",
+			"sound": "dialogue-spidey",
+			"speed": 0.05,
+			"portrait": "spidey-unmasked-classic"
+		},
+		{
+			"expression": "talk",
+			"text": "*Strange goes to the back and begins casting his spell, when suddenly the rest of the villains appear*",
+			"boxState": "normal",
+			"sound": "dialogue-nobody",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "angry",
+			"text": "Oh so the child has bitten more than he can chew. Prepare for the beatdown of a lifetime.",
+			"boxState": "normal",
+			"sound": "dialogue-doc-ock",
+			"speed": 0.05,
+			"portrait": "doc-ock"
+		},
+		{
+			"expression": "angry",
+			"text": "We will make you wish you never got bit by that Spider, PETER!",
+			"boxState": "angry",
+			"sound": "dialogue-venom",
+			"speed": 0.05,
+			"portrait": "venom"
+		},
+		{
+			"expression": "angry",
+			"text": "and no blue hair kid and his pathetic excuse of a girlfriend by your side? This will be a piece of cake!",
+			"boxState": "normal",
+			"sound": "dialogue-electro",
+			"speed": 0.05,
+			"portrait": "electro"
+		},
+		{
+			"expression": "talk",
+			"text": "When will you learn that everything that's happened is because of you.",
+			"boxState": "normal",
+			"sound": "dialogue-goobler",
+			"speed": 0.05,
+			"portrait": "green-goblin"
+		},
+		{
+			"expression": "talk",
+			"text": "What a pathetic excuse of a hero.",
+			"boxState": "normal",
+			"sound": "dialogue-doc-ock",
+			"speed": 0.05,
+			"portrait": "doc-ock"
+		},
+		{
+			"expression": "talk",
+			"text": "We wasted our time bonding with you, Parker.",
+			"boxState": "normal",
+			"sound": "dialogue-venom",
+			"speed": 0.05,
+			"portrait": "venom"
+		},
+		{
+			"expression": "happy",
+			"text": "You're gonna see what \"Sparkles\" feel like.",
+			"boxState": "normal",
+			"sound": "dialogue-electro",
+			"speed": 0.05,
+			"portrait": "electro"
+		},
+		{
+			"expression": "confused",
+			"text": "That... wasn't as intimidating as the others.. but ",
+			"boxState": "normal",
+			"sound": "dialogue-spidey",
+			"speed": 0.05,
+			"portrait": "spidey-unmasked-classic"
+		},
+		{
+			"expression": "cocky",
+			"text": "Bring it on!",
+			"boxState": "normal",
+			"sound": "dialogue-spidey",
+			"speed": 0.05,
+			"portrait": "spidey-unmasked-classic"
+		}
+	]
+}

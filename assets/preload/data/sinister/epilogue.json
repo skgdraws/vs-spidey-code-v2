@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue-",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*The villains started glowing, and began to disappear*"
+		},
+		{
+			"sound": "dialogue-spidey",
+			"speed": 0.05,
+			"portrait": "spidey-unmasked-classic",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Huh? What's going on?"
+		},
+		{
+			"sound": "dialogue-",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*A Portal opened beside Spider-Man, Strange walked out of it*"
+		},
+		{
+			"sound": "dialogue-strange",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "Did I do it? Are they gone?"
+		},
+		{
+			"sound": "dialogue-spidey",
+			"speed": 0.05,
+			"portrait": "spidey-unmasked-classic",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uh yeah but.. how?"
+		},
+		{
+			"sound": "dialogue-strange",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "Well. The spell I was going to use to send your little friend back to his universe.."
+		},
+		{
+			"sound": "dialogue-strange",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "I used it on the villains instead. I noticed I accidentally let them go when I sent you guys away."
+		},
+		{
+			"sound": "dialogue-bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "It took you that long to notice?"
+		},
+		{
+			"sound": "dialogue-strange",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "If I'm going to be honest, it didn't. I noticed it about 2 minutes after sending you back but.."
+		},
+		{
+			"sound": "dialogue-strange",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "I wanted to see if you guys could prove you were capable of beating them."
+		},
+		{
+			"sound": "dialogue-bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "so did we prove you right?"
+		},
+		{
+			"sound": "dialogue-strange",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "Eh.. kinda. You more or less just pissed them off more. "
+		},
+		{
+			"sound": "dialogue-bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh."
+		},
+		{
+			"sound": "dialogue-strange",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "I will admit though, you got some guts kid. You deserved to stay the time you did. I'd say you have till sundown. "
+		},
+		{
+			"sound": "dialogue-bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okay.. that's fair."
+		},
+		{
+			"sound": "dialogue-spidey",
+			"speed": 0.05,
+			"portrait": "spidey-unmasked-classic",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thank you Strange, it means a lot"
+		},
+		{
+			"sound": "dialogue-strange",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "yeah yeah, it's fine. Go have fun and enjoy your time."
+		}
+	]
+}

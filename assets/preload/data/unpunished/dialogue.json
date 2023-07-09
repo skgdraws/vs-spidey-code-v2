@@ -1,74 +1,100 @@
 {
 	"dialogue": [
 		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spidey-unmasked",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Alright, we did it. We beat you Norman. So it's time to give up and accept your de-.."
+		},
+		{
+			"sound": "",
 			"speed": 0.05,
 			"portrait": "gf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "*Spidey unmasks himself in a fit of rage.*"
+			"text": "*Spidey's senses went off. He realized Norman was off his hoverboard and that the board was heading straight for BF*"
 		},
 		{
+			"sound": "",
 			"speed": 0.05,
-			"portrait": "spidey-unmasked",
+			"portrait": "gf",
 			"boxState": "normal",
-			"expression": "angry",
-			"text": "There. I Won. Now your time is up Norman, accept your defea-"
+			"expression": "talk",
+			"text": "*Spidey reacting as quick as he could, pushed BF out of the way and took the hit*"
 		},
 		{
+			"sound": "",
 			"speed": 0.05,
 			"portrait": "spidey-unmasked",
 			"boxState": "normal",
 			"expression": "shocked",
-			"text": "GAH-"
+			"text": "ACK!-"
 		},
 		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Oh My Gosh!! Spidey!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "W-wha "
+		},
+		{
+			"sound": "",
 			"speed": 0.05,
 			"portrait": "green-goblin",
 			"boxState": "normal",
 			"expression": "laugh",
-			"text": "HAHAHAHAHAHA"
+			"text": "HAHAHAHAHAHAHAHA, I finally did it!!"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "green-goblin",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "did you reaaaally think I was gonna let you win that easily?!"
-		},
-		{
+			"sound": "",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
-			"expression": "shocked",
-			"text": "T-that's not how it goes... you-...you cheated!"
+			"expression": "talk",
+			"text": "W-wait that wasn't how it was supposed to go you... you cheated!!"
 		},
 		{
+			"sound": "",
 			"speed": 0.05,
 			"portrait": "green-goblin",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "don't worry kid. He will be just fine."
+			"text": "Peter and Boyfriend, NO Good deeds go\\nUnpunished."
 		},
 		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Spidey sat down on the floor holding his wound*"
+		},
+		{
+			"sound": "",
 			"speed": 0.05,
 			"portrait": "spidey-unmasked",
 			"boxState": "normal",
-			"expression": "shocked",
-			"text": "Kid, listen... the only way we are gonna stop him is if we finish this battle. you got this"
+			"expression": "weakened",
+			"text": "L-Listen Kid, the only way you can defeat him is by finishing this rap battle. You got this kid."
 		},
 		{
+			"sound": "",
 			"speed": 0.05,
 			"portrait": "bf",
-			"boxState": "normal",
+			"boxState": "angry",
 			"expression": "talk",
-			"text": "BRING IT ON THEN BITCH!!!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "green-goblin",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "atta boy."
+			"text": "GRRRRR. FINE. BRING IT ON BITCH!!"
 		}
 	]
 }

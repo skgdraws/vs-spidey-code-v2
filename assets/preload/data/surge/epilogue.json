@@ -1,25 +1,76 @@
 {
 	"dialogue": [
 		{
+			"sound": "dialogue-gf",
 			"speed": 0.05,
 			"portrait": "gf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "*Spider-man shoots a magic enchanted web over at electro and sends him to Doctor Strange*"
+			"text": "*Spidey then shot a magic enchanted web at Electro. Sending him to Strange's dungeon*"
 		},
 		{
+			"sound": "dialogue-gf",
 			"speed": 0.05,
-			"portrait": "Spidey-magic",
+			"portrait": "GF",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I can't believe you called me emotional support spidey."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spidey-magic",
 			"boxState": "normal",
 			"expression": "regret",
-			"text": "that was a close one kid. I'm gonna go look for that flying green elf, if you find him. Call me."
+			"text": "No I didn't mean it like that, look what it did for you. You popped off."
 		},
 		{
+			"sound": "dialogue-gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "So you are saying you just called me that.. to anger me?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spidey-magic",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "I guess you could say that.. I kinda thought you were emotional support but look. You clearly are more then that. "
+		},
+		{
+			"sound": "dialogue-bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well duh, she is my gf!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spidey-magic",
+			"boxState": "normal",
+			"expression": "cocky",
+			"text": "Well, we aren't done yet. We still gotta look for the flying green elf. I'm gonna go check on my Aunt May first. If you find him...-"
+		},
+		{
+			"sound": "dialogue-spidey",
+			"speed": 0.05,
+			"portrait": "spidey-magic",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "scream as loud as you can."
+		},
+		{
+			"sound": "dialogue-bf",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "kk!"
+			"text": "Got it!"
 		}
 	]
 }
